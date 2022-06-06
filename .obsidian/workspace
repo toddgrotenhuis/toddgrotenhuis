@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "21a13ef60b26f782",
+    "type": "split",
+    "children": [
+      {
+        "id": "306c08f352ec6944",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "book.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9b013b48d344e80",
+    "type": "split",
+    "children": [
+      {
+        "id": "607ae5dfff818d40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "219c39d00f567f7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd23294adb8e079e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9775c09069d9edee",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef190816b9ddad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab045eb809034d69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "306c08f352ec6944",
+  "lastOpenFiles": [
+    "book.md",
+    "game.md",
+    "rec.md",
+    "index.md"
+  ]
+}
