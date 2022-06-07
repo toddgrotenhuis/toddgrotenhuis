@@ -1,3 +1,4 @@
+
 2022-06-05: [Algorithms to Live By](https://bookshop.org/a/10222/9781250118363) by Brian Christian and Tom Griffiths
 **Recommended**
 
