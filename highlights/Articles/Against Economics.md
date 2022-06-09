@@ -1,0 +1,27 @@
+# Against Economics
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+
+## Metadata
+- Author: [[David Graeber]]
+- Full Title: Against Economics
+- Category: #articles
+- URL: https://www.nybooks.com/articles/2019/12/05/against-economics/
+
+## Highlights
+- since the 2008 recession, central banks have been printing money frantically in an attempt to create inflation and compel the rich to do something useful with their money, and have been largely unsuccessful in both endeavors.
+- We now live in a different economic universe than we did before the crash. Falling unemployment no longer drives up wages. Printing money does not cause inflation. Yet the language of public debate, and the wisdom conveyed in economic textbooks, remain almost entirely unchanged.
+- Mainstream economists nowadays might not be particularly good at predicting financial crashes, facilitating general prosperity, or coming up with models for preventing climate change, but when it comes to establishing themselves in positions of intellectual authority, unaffected by such failings, their success is unparalleled
+- Private banks create money. Central banks like the Bank of England create money as well, but monetarists are entirely wrong to insist that their proper function is to control the money supply. In fact, central banks do not in any sense control the money supply; their main function is to set the interest rate—to determine how much private banks can charge for the money they create. Almost all public debate on these subjects is therefore based on false premises.
+- There is a logical flaw to any such theory: there’s no possible way to disprove it. The premise that markets will always right themselves in the end can only be tested if one has a commonly agreed definition of when the “end” is; but for economists, that definition turns out to be “however long it takes to reach a point where I can say the economy has returned to equilibrium.”
+- In fact, there’s absolutely no reason a modern state should fund itself primarily by appropriating a proportion of each citizen’s earnings. There are plenty of other ways to go about it. Many—such as land, wealth, commercial, or consumer taxes (any of which can be made more or less progressive)—are considerably more efficient, since creating a bureaucratic apparatus capable of monitoring citizens’ personal affairs to the degree required by an income tax system is itself enormously expensive. But this misses the real point: income tax is supposed to be intrusive and exasperating. It is meant to feel at least a little bit unfair. Like so much of classical liberalism (and contemporary neoliberalism), it is an ingenious political sleight of hand—an expansion of the bureaucratic state that also allows its leaders to pretend to advocate for small government.
+    - Tags: [[favorite]] 
+- One reason this was such a radical position was that it was taken at exactly the same moment that microeconomics itself was completing a profound transformation—one that had begun with the marginal revolution of the late nineteenth century—from a technique for understanding how those operating on the market make decisions to a general philosophy of human life. It was able to do so, remarkably enough, by proposing a series of assumptions that even economists themselves were happy to admit were not really true: let us posit, they said, purely rational actors motivated exclusively by self-interest, who know exactly what they want and never change their minds, and have complete access to all relevant pricing information. This allowed them to make precise, predictive equations of exactly how individuals should be expected to act.
+- Surely there’s nothing wrong with creating simplified models. Arguably, this is how any science of human affairs has to proceed. But an empirical science then goes on to test those models against what people actually do, and adjust them accordingly. This is precisely what economists did not do.
+- The problem, as Skidelsky emphasizes, is that if your initial assumptions are absurd, multiplying them a thousandfold will hardly make them less so. Or, as he puts it, rather less gently, “lunatic premises lead to mad conclusions”:
+- The problem of how to determine the optimal distribution of work and resources to create high levels of economic growth is simply not the same problem we are now facing: i.e., how to deal with increasing technological productivity, decreasing real demand for labor, and the effective management of care work, without also destroying the Earth. This demands a different science.
+    - Tags: [[favorite]] 
+- behavioral economics, psychology, and even anthropology to come up with theories based on how people actually behave, or once again embrace the notion of emergent levels of complexity—or, most likely, both.
+- Any new, viable science will either have to draw on the accumulated knowledge of feminism, behavioral economics, psychology, and even anthropology to come up with theories based on how people actually behave, or once again embrace the notion of emergent levels of complexity—or, most likely, both.
+    - Tags: [[favorite]] 
+- Intellectually, this won’t be easy. Politically, it will be even more difficult. Breaking through neoclassical economics’ lock on major institutions, and its near-theological hold over the media—not to mention all the subtle ways it has come to define our conceptions of human motivations and the horizons of human possibility—is a daunting prospect.

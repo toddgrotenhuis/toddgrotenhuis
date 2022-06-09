@@ -1,0 +1,146 @@
+# A Farewell to Mars
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/515qN%2BjMuhL._SL200_.jpg)
+
+## Metadata
+- Author: [[Brian Zahnd]]
+- Full Title: A Farewell to Mars
+- Category: #books
+
+## Highlights
+- it impossible for me to comprehend how a Christian can kill a non-Christian who is thereby prevented from turning to Christ, just as it is also beyond me how any Christian can kill another Christian at the orders of state military leaders. ([Location 32](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=32))
+    - Tags: [[favorite]] 
+- Our responsibility is not to chaplain the state but to call the state to repentance and to surrender to the King who is Lord. ([Location 37](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=37))
+    - Tags: [[favorite]] 
+- Christians would do far more good for our country by learning not to look to DC for solutions but to the glorious Son of God, who loves us and gave himself for us and, in doing so, gave us a whole new way of life—one not shaped by the power of force but the force of the gospel. ([Location 38](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=38))
+    - Tags: [[favorite]] 
+- Our responsibility is to be an alternative to the state. ([Location 38](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=38))
+    - Tags: [[favorite]] 
+- I believe what the canonical gospels report and what the historic creeds confess concerning the crucified and risen Christ. That’s what makes me an orthodox Christian. But I also believe in Jesus’s ideas—the ideas he preached about the peaceable kingdom of God. And that’s what makes me a radical Christian. ([Location 87](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=87))
+    - Tags: [[favorite]] 
+- when we separate Jesus from his ideas for an alternative social structure, we inevitably succumb to the temptation to harness Jesus to our ideas—thus conferring upon our human political ideas an assumed divine endorsement. ([Location 92](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=92))
+    - Tags: [[favorite]] 
+- we reduce Jesus to being the Savior who guarantees our reservation in heaven while using him to endorse our own ideas about how to run the world. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=96))
+    - Tags: [[favorite]] 
+- Jesus Christ and the historical events of his crucifixion and resurrection are not to be separated from the ideas he preached about a kingdom of peace. ([Location 121](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=121))
+- A preacher of peace was executed for his revolutionary ideas. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=153))
+- It seems we Christians have had a habitual tendency to separate Jesus from his ideas. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=161))
+    - Tags: [[favorite]] 
+- The crusades are perhaps the most egregious example of how distorted Christianity can become when we separate Christ from his ideas. ([Location 169](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=169))
+    - Tags: [[favorite]] 
+- Under pressure from the ideology of empire, concepts like freedom and truth gain radically different meanings than those intended by Christ. ([Location 174](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=174))
+- If Jesus of Nazareth had preached the paper-thin version of what passes for the “gospel” today—a shrunken, postmortem promise of going to heaven when you die—Pilate would have shrugged his shoulders and released the Nazarene, warning him not to get mixed up in the affairs of the real world. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=178))
+    - Tags: [[favorite]] 
+- Because while we believe in Jesus as Savior of the private soul, we remain largely unconvinced about his ideas for saving the world. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=184))
+- American Christians especially should keep in mind that we as the modern Romans—the privileged citizens of the world’s lone superpower—have more in common with Pontius Pilate than we do with Galilean peasants. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=185))
+    - Tags: [[favorite]] 
+- Of course Constantinian Christianity couldn’t quite get away with simply dismissing Christ himself, so he was given the reduced role of saving souls and presiding over a religion of private piety. ([Location 192](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=192))
+    - Tags: [[favorite]] 
+- the mission of Christ extends far beyond the narrow spectrum of private spirituality and afterlife expectations. Jesus actually intends to save the world! ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=194))
+- In rejecting the Prince of Peace, Jerusalem had gone to hell. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=226))
+- Freedom remains a euphemism for the power to kill. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=235))
+- If Jesus had remained in the tomb with its stone sealed by the imperial authority of Rome, Jesus’s ideas would have died with him. But the resurrection changes all of that. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=241))
+- Easter is God saying once again, “This is my beloved Son, with whom I am well pleased. Listen to him!” ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=245))
+- great and powerful nations shape God into their own image; great and powerful nations conscript God to do their bidding. Great and powerful nations use the idea and vocabulary of God to legitimize their own agenda. Great and powerful nations project God as a personification of their own national interests. ([Location 271](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=271))
+- God is opposed to the agenda of empire for this simple reason: God makes the same claim for his Son! ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=285))
+- God has made his Son the true, present, and eternal emperor of the world. ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=286))
+- So when Christ came he did not bring another empire of men built upon a lie as the liar in the desert tempted. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=358))
+- And when push comes to shove, as it always does, the Empire of Men will oppose the Empire of God. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=377))
+- Thy Empire come Thy Policy be done. You had no idea it was dissident and subversive, because every empire of men is built upon a lie. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=403))
+- And if you ask me my politics, I will say, Jesus is Lord! ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=407))
+- Jesus is not a heavenly conductor handing out tickets to heaven. Jesus is the carpenter who repairs, renovates, and restores God’s good world. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=416))
+- You promise the moon (actually heaven) for the low one-time cost of a sinner’s prayer. How hard is that? And since it mostly applies to the next life, why wouldn’t you pray the prayer? If for no other reason than as a kind of afterlife insurance. Oh, yes, we did offer the optional discipleship package for those wanting to upgrade their Christian experience. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=420))
+- (Actually you can argue with the numbers—that’s what prophets do all the time.) ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=424))
+- In fact, in the eight gospel sermons found in the book of Acts, not one of them is based on afterlife issues! Instead they proclaimed that the world now had a new emperor and his name was Jesus! ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=428))
+- If what we mean by “Jesus saves the world” gets reduced to “saved people go to heaven when they die,” then Jesus is simply the one who saves us from the world, not the Savior of the world. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=437))
+    - Tags: [[favorite]] 
+- Christian happiness is based in the conviction that because of the accomplishments of Christ, the future is a friend. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=446))
+- And while it may be true that the Jewish community in general has not recognized that God is repairing the world through Jesus, Christians often fail to recognize that God is repairing the world at all! ([Location 468](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=468))
+- Christianity’s first apostles evangelized, not by trying to sign people up for an apocalyptic evacuation, but by announcing the arrival of a new world order. ([Location 478](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=478))
+- Salvation is a restoration project, not an evacuation project! ([Location 483](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=483))
+    - Tags: [[favorite]] 
+- Nothing has done more to confer dignity upon the individual person than the Christian doctrine of the incarnation. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=543))
+- It’s high time that a morbid fascination with a supposed unalterable script of God-sanctioned–end-time–hyperviolence be once and for all left behind. ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=611))
+- We refuse to conspire with the beasts of empire who keep the world confined to the death culture of Babylon. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=614))
+- We will not complete it without the return of the King, but we will move in that direction all the same. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=614))
+- one of the responsibilities of a just democracy is to protect the minority from the majority. ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=633))
+- The crowd is incapable of entertaining the idea that it may be a great evil. ([Location 637](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=637))
+- What we may venerate as freedom-loving revolutionaries, the cross exposes as a demonic mob quite capable of killing the innocent. ([Location 661](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=661))
+- The unholy spirit (think mood or attitude) of the satanic is the inclination to blame, accuse, and recriminate. (The words satan and devil both mean to accuse and blame.) ([Location 669](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=669))
+    - Tags: [[favorite]] 
+- I say “it” because the angry crowd takes on a life of its own. The crowd is now in search of a scapegoat, whose role it is to bear the sin of the crowd. ([Location 673](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=673))
+- The scapegoat is usually a marginalized person or a minority group that is easy to victimize. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=681))
+- The crowd must continue to practice the self-deception that the scapegoat is a real threat to “freedom” or “righteousness” or whatever the crowd is using to justify its fear-based insecurity and anger. This is why foreigners, immigrants, racial minorities, and religious minorities are often selected as scapegoats. ([Location 682](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=682))
+- This “escape valve” of sacrificing a scapegoat is highly effective in producing a sense of well-being and belonging within the crowd. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=687))
+- It’s collective murder as the alchemy for peace and unity. The crowd vents its violence and vengeance upon a scapegoat to protect itself from itself. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=689))
+- The spiritual experience of expressing a shared hostility can even be confused for the Holy Spirit … because of how it feels. ([Location 704](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=704))
+- A unity is achieved around this kind of angry rhetoric, a unity that is undeniably cathartic and religious. ([Location 706](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=706))
+- Scapegoating is done instinctively but not innocently. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=728))
+- The practice of blaming is given a place to die in Jesus. ([Location 766](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=766))
+    - Tags: [[favorite]] 
+- Jesus carried our blame down to Hades—where it belongs—and left it there. ([Location 767](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=767))
+- The Jesus way of producing peace is based in mercy and forgiveness, not blame and retribution. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=789))
+    - Tags: [[favorite]] 
+- We might refuse to follow religious leaders who gain a following by the rhetorical lynching of the usual scapegoats. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=795))
+- We don’t belong to the fear-based crowd desperate to control others through political power. ([Location 800](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=800))
+    - Tags: [[favorite]] 
+- We’ve heard Jesus tell us not to be afraid because it’s the Father’s good pleasure to give us the kingdom. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=802))
+- once you take fear off the table, how many enemies do you really have? ([Location 805](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=805))
+- We’re called to be peacemakers, and peacemakers cannot be fearmongers. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=810))
+- The biggest difference between a peacemaker and a fearmonger is whether or not they really believe in the unconditional love of God. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=810))
+    - Tags: [[favorite]] 
+- When I say it’s hard to believe in Jesus, I mean it’s hard to believe in Jesus’s ideas—in his way of saving the world. For Christians it’s not hard to believe in Jesus as the Son of God, the Second Person of the Trinity—all the Christological stuff the church hammered out in the first five centuries. That’s not hard for us. What’s hard is to believe in Jesus as a political theologian. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=911))
+    - Tags: [[favorite]] 
+- We want to hear how Jesus was born in Bethlehem, died on the cross, and rose again on the third day. We use these historical bits as the raw material for our theology that we mostly shape from a particular misreading of Paul. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=916))
+- We believe in Jesus theologically, religiously, spiritually, sentimentally … but not politically. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=950))
+- Jesus didn’t seem very interested in exposing symptomatic sinners—tax collectors, drunkards, prostitutes, etc. Instead Jesus challenged the guardians of systemic sin—the power brokers of religion and politics. ([Location 969](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=969))
+- Instead of retaliatory violence; the world is to be refounded on cosuffering love. ([Location 998](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=998))
+- It’s so hard for us to let go of the sword and take the hand of the crucified one. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1030))
+- The Jesus way and conventional power politics don’t mix. ([Location 1054](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1054))
+- This begs the question of why Christians get so worked up over which side has the most representatives in Congress when the entire system is incapable of implementing what Jesus taught. ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1056))
+- Telling the crowd that God is on our side is never a bad career move. ([Location 1067](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1067))
+- My new direction was that I began to see the kingdom of Christ as God’s alternative society. ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1070))
+- I learned that it is much easier to unite people around a Jesus who hates our enemies and blesses our wars than it is to unite people around a Jesus who calls us to love our enemies and pray for those who persecute us. ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1071))
+- stoning is a way for the community to participate in collective murder and lie to itself about it. ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1126))
+- The one who won’t throw a rock becomes a prophet shining light on the evil of stoning. The community must then either repent or stone the prophet. ([Location 1256](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1256))
+- Violence in the name of freedom always circles back to hell. ([Location 1311](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1311))
+    - Tags: [[favorite]] 
+- Do we Christians secretly wish that Jesus were more like Muhammad? ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1326))
+- The moment the church took to the Crusades in order to fight Muslims, it had already surrendered its vision of Jesus to the model of Muhammad. ([Location 1327](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1327))
+- Muhammad may have thought freedom could be found at the end of a sword, but Jesus never did. ([Location 1328](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1328))
+- to live gently in a violent world is part of the counterculture of following Christ. ([Location 1359](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1359))
+- We have made the Pax Christus a private affair while holding to the Pax Romana as the only way to arrange the world. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1394))
+- The means never justify the ends. ([Location 1398](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1398))
+    - Tags: [[favorite]] 
+- The means are the ends in the process of becoming. ([Location 1398](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1398))
+- It’s not enough to believe in Jesus; we also have to believe in the Jesus way ([Location 1422](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1422))
+    - Tags: [[favorite]] 
+- Across the country revival was on, churches grew, conversions multiplied. People got saved, praised Jesus, and talked about heaven. Then they went to hell. Or at least the same kind of hell Jesus had warned Jerusalem about during his final days. Despite a great revival, a nation of Christians was thrust into a hell of cannonballs, Gatling guns, field hospitals, and amputation saws. Great cities were set aflame and fields were littered with thousands of rotting corpses. The fires were not quenched and the maggots did not die. ([Location 1437](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1437))
+- When we don’t know the things that make for peace, we can barrel down the highway to hell, all the while singing about how much we love Jesus and how wonderful it is to be saved. ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1480))
+- If we console ourselves with the promise of heaven in the afterlife while creating hell in this present life, we have embraced the tawdry religion of the crusader and forsaken the true faith of our Savior. ([Location 1501](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1501))
+- Perceiving the kingdom of God as an actual political reality is a game changer. ([Location 1553](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1553))
+    - Tags: [[favorite]] 
+- The problem with the chaplaincy view of Christianity is the assumption that the kingdom (government) of God has yet to come. If we think the kingdom of God is still waiting in the wings, then our political allegiance is given to one of the players currently on stage. Christianity becomes subservient to conventional political power, a chaplain to offer innocuous invocations, a lackey to hand out “Christian voter guides.” ([Location 1564](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1564))
+    - Tags: [[favorite]] 
+- Jesus saw himself as the Son of Man who would receive dominion over the nations and liberate the world from the tyranny of military empires. But he would not attain this dominion through violence for that would make him just another beast! (This was the essence of the third wilderness temptation: to ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1617))
+- Do we believe that Jesus is the Son of Man who has been given dominion over the nations and has established a new kind of rule? Or do we in effect say, “Oh, someday the Son of Man will reign, but not now, and in the meantime, let’s trust Caesar to keep running the show”? ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1630))
+    - Tags: [[favorite]] 
+- If Jesus is relegated to the hyperspiritualized role of personal Savior, then we are free to pledge our political allegiance to the latest incarnation of empire. This is why Christians from the days of Constantine onward have been so pliable in the hands of beasts. ([Location 1635](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1635))
+- When asked to identify the origin of Satan, we are commonly directed to Isaiah 14. This is the passage where the king of Babylon is called Lucifer (Day Star) and described as “fallen from heaven” for coveting the throne of God. But what should be readily apparent is that Isaiah is giving us a prophetic critique of empire by using the king of Babylon as a personification for the whole imperial project. ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1703))
+    - Tags: [[favorite]] 
+- The imperial-satanic project is always destined to fall. ([Location 1758](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1758))
+    - Tags: [[favorite]] 
+- Empires practice the propaganda of calling destruction peace ([Location 1763](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1763))
+- Babylon does not prioritize care for the poor and sick; Babylon does not welcome the immigrant; Babylon does not treat its prisoners humanely. ([Location 1773](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1773))
+- So politically I call for my nation to prioritize caring for the poor, the sick, the immigrant, and the imprisoned, and to renounce an ambition to dominate the world economically or militarily. I do this in the name of Jesus. I pledge no allegiance to elephants or donkeys, only to the Lamb. ([Location 1782](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1782))
+    - Note: But you must also do it through nonviolent methods, which means anarchistic or libertarian means.
+- Wherever war is given sanctity in the name of God, Mars is there. Wherever military might is wedded with religious rhetoric, Mars is there. Wherever the symbols of faith morph into the emblems of war, Mars is there. Mars is not dead. Mars lives on. Mars is alive and well in our day. I’ve even been to a modern temple of Mars. ([Location 1810](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1810))
+    - Tags: [[favorite]] 
+- It was precisely because Jerusalem failed to recognize Jesus as Isaiah’s Prince of Peace right there and then that they rushed headlong into the war that ended with their own destruction! ([Location 1904](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1904))
+- Jesus doesn’t call us to give a prophetic interpretation to the latest war and rumor of war. Jesus calls us to be peacemakers and lead the way out of the darkness of retributive violence into the light of Christian reconciliation. ([Location 1908](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1908))
+- if you are waiting for something to happen before you beat your sword into a plowshare and your spear into a pruning hook, you can stop waiting! ([Location 1919](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1919))
+    - Tags: [[favorite]] 
+- The question “What are you willing to die for?” is not the same question as “What are you willing to kill for?” ([Location 1925](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1925))
+    - Tags: [[favorite]] 
+- No more eschatological shenanigans where we keep pushing the reign of Christ off until we’ve waged a few more wars. ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B00I65455C&location=1976))
+    - Tags: [[favorite]] 

@@ -1,0 +1,37 @@
+# Walkaway
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41nxhmKA4EL._SL200_.jpg)
+
+## Metadata
+- Author: [[Cory Doctorow]]
+- Full Title: Walkaway
+- Category: #books
+
+## Highlights
+- End of the day, anything that made you discount objective reality and assign a premium to some kind of internal mental state was going to be both pro-survival and pro–status-quo. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=255))
+- Toronto’s subways, like most subways, were places of civil inattention. It took a lot to get other people to overtly acknowledge you. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=373))
+- Because there aren’t any ‘jobs’ left. Just financial engineering and politics. ([Location 647](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=647))
+- People like my dad assume that because they’re smart about being evil bastards, they’re smart about everything—” “And because they’re smart at everything,” Seth said, “that makes it okay for them to be evil bastards?” ([Location 670](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=670))
+- Asking the zottarich to redeem themselves by giving money away acknowledges that they deserve it all, should be in charge of deciding where it goes. It’s pretending that you can get rich without being a bandit. Letting them decide what gets funded declares the planet to be a giant corporation that the major shareholders get to direct. It says that government is just middle-management, hired or fired on the whim of the directors.” ([Location 693](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=693))
+    - Tags: [[favorite]] 
+- “I’m suspicious of any plan to fix unfairness that starts with ‘step one, dismantle the entire system and replace it with a better one,’ especially if you can’t do anything else until step one is done. Of all the ways that people kid themselves into doing nothing, that one is the most self-serving.” ([Location 720](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=720))
+- I think that the tragedy of human existence is our world is run by people who are really good at kidding themselves, like your father. ([Location 754](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=754))
+- It starts with the idea that it’s human nature to kid yourself and take the last cookie, so if he doesn’t, someone else will, so he had better be the most lavishly self-deluded of all, the most prolific taker of cookies, lest someone more horrible, immoral, and greedy than he gets there first and eats all the cookies, takes the plate, and charges rent to drink the milk.” ([Location 760](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=760))
+- The impulse to walk away was bound up with the urge to write Thoreauvian memoirs about societal malaise and the tradecraft of going off-grid in the age of total information awareness. ([Location 847](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=847))
+- Depending on how you look at it, there’ll never be enough, or there’ll always be plenty.” ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1009))
+- The zottas are trying to secede from humanity. They don’t see their destiny as tied to ours. ([Location 1073](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1073))
+- That’s why you never hear politicians talking about ‘citizens,’ it’s all ‘taxpayers,’ as though the salient fact of your relationship to the state is how much you pay. ([Location 1077](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1077))
+- Sure, they pay most of the tax, because they’ve built a set of rules that gives them most of the money. Talking about ‘taxpayers’ means that the state’s debt is to rich dudes, and anything it gives to kids or old people or sick people or disabled people is charity we should be grateful for, since none of those people are paying tax that justifies their rewards from Government Inc. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1080))
+- Talking about ‘taxpayers’ means that the state’s debt is to rich dudes, and anything it gives to kids or old people or sick people or disabled people is charity we should be grateful for, since none of those people are paying tax that justifies their rewards from Government Inc. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1080))
+- It’s even more evil, because it exists in a zone of diffused responsibility: ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1094))
+- Some were double agents, but that was okay, since we didn’t have any secrets. Secrets were just overhead. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1292))
+- The people who use this place decided they would rather be robbed than surveilled. Stuff is just stuff, but being recorded all the time is creepy. ([Location 1356](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1356))
+- “Look, there are as many walkaway philosophies as there are walkaways, but mine is, ‘the stories you tell come true.’ If you believe everyone is untrustworthy, you’ll build that into your systems so that even the best people have to act like the worst people to get anything done. If you assume people are okay, you live a much happier life.” ([Location 1377](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1377))
+- Making other people feel like assholes was a terrible way to get them to stop acting like assholes. ([Location 1453](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1453))
+- If you take without giving, you’re a mooch. If you keep track of everyone else’s taking and giving, you’re a creep scorekeeper. ([Location 1463](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1463))
+- The worst thing is to be worrying about what someone else is doing, because that has nothing to do with whether you’re doing right.” ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1465))
+- it’s hard to pretend that you’re not the protagonist in the movie of your life. Normally it doesn’t matter, but being around here rubs your nose in ([Location 1650](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1650))
+- you have to want to make a difference and know you’re totally replaceable.” ([Location 1653](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1653))
+- If we set up a system that makes people compete for acknowledgment, we invite game-playing and stats-fiddling, even unhealthy stuff like working stupid hours to beat everyone. A crew full of unhappy people doing substandard work. If you build systems that make people focus on mastery, cooperation, and better work, we’ll have a beautiful inn full of happy people working together well.” ([Location 1769](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1769))
+- You got the world you hoped for or the world you feared— ([Location 1899](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1899))
+- “The best way to be superhuman is to do things that you love with other people who love them, too. ([Location 1989](https://readwise.io/to_kindle?action=open&asin=B01FQQ47OC&location=1989))

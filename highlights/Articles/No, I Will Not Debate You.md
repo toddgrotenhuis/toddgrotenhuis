@@ -1,0 +1,40 @@
+# No, I Will Not Debate You
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
+
+## Metadata
+- Author: [[Laurie Penny]]
+- Full Title: No, I Will Not Debate You
+- Category: #articles
+- URL: https://longreads.com/2018/09/18/no-i-will-not-debate-you
+
+## Highlights
+- There are some stupid mistakes that only very smart people make, and one of them is the notion that a sensible argument seriously presented can compete with a really good piece of theatre.
+- Every day, people on the internet ask why I won’t “debate” some self-actualizing gig-economy fascist or other, as if formal, public debate were the only way to steer public conversation. If you won’t debate, the argument goes, you’re an enemy of free speech. You’re basically no better than a Nazi, and certainly far worse than any of the actual Nazis muttering about not being allowed to preach racism from prestigious pulpits. Well-meaning liberals insist that “sunlight is the best disinfectant,” anti-fascists disagree, the far right orders more popcorn, and round and round we go on the haunted carousel of western liberal thought until we’re all queasy.
+- We probably should have anticipated the disingenuous firestorm that followed. We should have anticipated the accusations of being the real fascists for refusing to make nice with white supremacists, the harassment and YouTube hobgoblining from self-appointed defenders of free speech, who seem to have forgotten that for Bates, for me, and for any other woman who flashes the merest inch of independent thought online, harassment is nothing terribly new. It’s just Tuesday.
+- There’s a term for this sort of bad-faith argument: it’s called the justification-suppression model. The theory is that bigots refrain from directly defending their own bigotry but get hugely riled up justifying the abstract right to express bigotry. So instead of saying, for example, “I don’t like foreigners,” they’ll fight hard for someone else’s right to get up on stage and yell that foreigners are coming to convert your children and seduce your household pets.
+- Focusing the conversation on the ethics of disseminating speech rather than the actual content of that speech is hugely useful for the far right for three reasons. Firstly, it allows them to paint themselves as the wronged party — the martyrs and victims. Secondly, it stops people from talking about the actual wronged parties, the real lives at risk. And thirdly, of course, it’s an enormous diversion tactic, a shout of “Fire!” in the crowded theatre of politics.
+- The problem is that it relies on two pieces of magical thinking: number one, that intellectual ideas are the same as moral ones, and number two, that the sucking ethical vacuum at the center of public life can be replaced with a commitment to the polite forms of a free society.
+- There’s a good case to be made for what anarchists call “prefigurative politics” — the idea that part of the way you build a better world is by creating a version of the world you want to see.
+- Personally, I prefer an exchange of ideas that is less hierarchical and performative, because I’ve found that a lot of the people whose voices matter most are people who don’t put themselves forward as spokespeople, if they are invited at all. Or written dialogue, because it gives all parties more time to think and reflect. Or any format where good ideas are what count, not how good you are at showboating and humiliating the other guy.
+- Remember the U.S. presidential debates of 2016? Remember how the entire liberal establishment thought Hillary Clinton had won, mainly because she made actual points, rather than shambling around the stage shouting about Muslims? What’s the one line from those debates that everyone remembers now? It’s “Nasty Woman.” What’s the visual? It’s Trump literally skulking around Hillary, dominating her with his body. It’s theatre. And right now the bad actors are winning.
+- The far right does not respect the free and liberal exchange of ideas. It is not open to compromise, and it does not want a debate. It wants power.
+- This weaponizes tolerance to legitimize intolerance. If we deny racists a platform, they feed off the appearance of censorship, but if we give them a platform, they’ve also won by being respectfully invited into the penumbra of mainstream legitimacy. Either way, what matters to them is not debate, but airtime and attention. They have no interest in winning on the issues. Their image of a better world is one with their face on every television screen.
+- The marketplace of ideas is just as full of con artists, scammers, and Ponzi schemes as any other marketplace, and as always, when the whole thing comes crashing down, it’s ordinary marks who lose everything.
+- They believe, because the belief is soothing, that the marketplace of ideas cares about the value, durability, and quality of its wares rather than how shiny the packaging is, how catchy the jingle, how many times it shows up in your peripheral brand awareness until it’s the one you reach for on the shelf.
+- Inviting someone like Steve Bannon to your conference about how to build a free and open society is a little like inviting Ronald McDonald to your convention on solving world hunger.
+- But academic research and investigative journalism are very different from formal public debate.
+- People rarely change their minds in the course of formal public debate. Not the people on stage, and very few of those in the audience. Years of robust debate in my capacity as a commentator and journalist have taught me that you don’t change minds simply by pointing out where someone is wrong.
+- The ways people actually change their minds is by reading the mood of those around them and then going away and thinking about it, by being given permission to think what they were already thinking, or by being shamed into realizing how ignoble their assumptions always were.
+- being better at debating does not make you right. It just makes you better at debating.
+- I will not be bullied by bad-faith actors trying to rules-lawyer my own principles against me into treating neo-Nazis with respect they don’t deserve.
+- It’s not my place to tell anyone else who to host at their events, but I can make a choice as a free individual about who I choose to associate with in a professional context, and the more of us who make that choice, the stronger the message it sends.
+- Curation is a political choice, and so is the choice of who we allow to take lead roles in the theatre of public discourse.
+- Moderate liberalism cherishes the idea of “civility” because it allows it to believe in its own goodness and relevance. To refuse to debate someone is an act of discourtesy. It is rude. It implies that you do not consider that person’s ideas or behavior worthy of basic respect.
+- Television interviewers have repeatedly failed to hold far-right leaders properly to account because one simply does not call someone a liar and a bigot on a respectable news program.
+  I’ve come to think of this as the deference trap.
+- It’s a mistake to think that the far right cares about the free speech debate as anything other than a way of confusing the enemy.
+- If we deny racists a platform, they feed off the appearance of censorship, but if we give them a platform, they’ve won by being respectfully invited into the mainstream. Either way, what matters to them is not debate, but attention. There is no perfect choice.
+  But there is a choice, and this, to my mind, is the sensible one: To refuse to dignify these people with prestigious public platforms, or to share them. To refuse to offer them airtime or engage them in public debate.
+- Fortunately, we live in a brave new world where real censorship is something that is almost infeasible unless you are extremely rich and venal and have an army of lawyers.
+- I am not interested in hearing out the ideas of the far right, because there are no new ideas on the far right. There are only new recruits.

@@ -1,0 +1,15 @@
+# Guide to Different Types of Pond Algae
+
+![rw-book-cover](https://pondinformer.com/wp-content/uploads/2018/09/pond-algae-types-with-pictures-guide.jpg)
+
+## Metadata
+- Author: [[Pond Informer]]
+- Full Title: Guide to Different Types of Pond Algae
+- Category: #articles
+- URL: https://pondinformer.com/pond-algae-types-guide
+
+## Highlights
+- Different types of [cyanobacteria present different health hazards](https://www.epa.gov/nutrient-policy-data/health-and-ecological-effects), so be sure to minimize your exposure and thoroughly clean yourself and your clothing if you come into contact with any. ([View Highlight](https://read.readwise.io/read/01fxbvvv3e668bxpg7fgcra55j))
+- You can control filamentous algae by utilizing naturally occurring microbes, [vacuuming/raking out any mats](https://pondinformer.com/best-pond-vacuum-cleaner/) that are present, and [regularly monitoring your water quality](https://pondinformer.com/best-pond-water-test-kit/) to prevent algae overgrowth. ([View Highlight](https://read.readwise.io/read/01fxbvtmcq1681fsz045m62b5q))
+- When euglena is present, you typically won’t know it until a bloom occurs, often bright crimson in color. These blooms are incredibly toxic, and will result in fish and vegetation die offs unless brought under control. Unfortunately, most euglena species do not respond to manual or biological controls, so you’ll have to either [entirely drain your water body](https://pondinformer.com/how-to-drain-garden-pond/) and replace it with fresh water, or utilize chemical products to kill off the bloom. The most effective chemical controls for euglena often contain copper or sodium carbonate. The downside of employing chemical controls, as discussed in previous articles, is the potential to harm the flora and fauna in your lake or pond. There are no known benefits of euglena, other than its presence indicating poor water quality and thus warning that something needs to change. ([View Highlight](https://read.readwise.io/read/01fxbvy2p3pen3h6w8d4c2e3xf))
+- point at which you should consider removing or at least controlling algae growth is when your water quality has diminished and/or you’ve noticed blooms or floating mats upon the water’s surface. To do this, you can try [manual removal](https://pondinformer.com/best-pond-vacuum-cleaner/) (rakes, filters, vacuums, etc.), [algae-eating fish species](https://pondinformer.com/pond-fish-that-eat-algae-guide/) like otocinclus catfish or plecostomus, biologic controls that will naturally break down the algae, [chemical means](https://pondinformer.com/best-pond-algaecide-algae-killer/) (again, these may have adverse impacts on the rest of your pond’s residents as well), [incorporating plants](https://pondinformer.com/best-oxygenating-pond-plants/) that will help to purify the water and soak up any excess nutrients that algae thrive on, or fully draining your pond and [refilling it with fresh, clean water](https://pondinformer.com/koi-pond-water-change-guide/). ([View Highlight](https://read.readwise.io/read/01fxby5x78vhbmkvvec64jb7m7))

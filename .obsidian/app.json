@@ -2,5 +2,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "fileSortOrder": "byModifiedTime",
+  "promptDelete": false
 }

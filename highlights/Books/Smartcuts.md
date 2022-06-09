@@ -1,0 +1,74 @@
+# Smartcuts
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/511Xjth9lBL._SL200_.jpg)
+
+## Metadata
+- Author: [[Shane Snow]]
+- Full Title: Smartcuts
+- Category: #books
+
+## Highlights
+### INTRODUCTION “How Do They Move So Fast?”
+- And that’s the difference between rapid, but short-term gains, which I call shortcuts, and sustainable success achieved quickly through smart work, or smartcuts. Whereas by dictionary definition shortcuts can be amoral, you can think of smartcuts as shortcuts with integrity. Working smarter and achieving more—without creating negative externalities. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=311))
+    - Tags: [[definition]] 
+- The step-by-step advice that made an ancient Greek hero rapidly prosperous will be entirely different from what makes a 21st-century businesswoman successful, just as the exact methods an Internet startup uses to grow today will be irrelevant in five years. But the patterns of lateral thinking (smartcuts) behind each of their success stories can be harnessed by anyone who seeks an edge—at ([Location 346](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=346))
+- Lateral thinking doesn’t replace hard work; it eliminates unnecessary cycles. Once they’ve shortened their path, overachievers tend to look for ways to do more with their effort, ([Location 363](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=363))
+- momentum—not experience—is the single biggest predictor of business and personal success. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=397))
+- By the end of this book, I’d like to convince you that serendipity can be engineered, that luck can be manufactured, convention can be defied, and that the best paths to success—no matter how you define it—are different today from what they were yesterday. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=406))
+### PART I SHORTEN
+#### Chapter 1 HACKING THE LADDER “Bored Mormons”
+- When you put tens of thousands of young abstainers together in a small college town, an obnoxious proliferation of creative group activities results. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=473))
+- people are generally willing to take a chance on something if it only feels like a small stretch. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=492))
+- The players eliminated resistance by breaking the big challenge (acquire something valuable like a TV) into a series of easier, repeatable challenges (make a tiny trade). ([Location 497](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=497))
+- Researchers call this the psychology of “small wins.” Gamblers, on the other hand, would call it a “parlay,” which the dictionary defines as “a cumulative series of bets in which winnings accruing from each transaction are used as a stake for a further bet.” ([Location 498](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=498))
+- “A series of wins at small but significant tasks, however, reveals a pattern that may attract allies, deter opponents, and lower resistance to subsequent proposals.” ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=504))
+- When a door was shut to them, they immediately picked another one. ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=512))
+- Stubbornness and tradition make for poor performance—as we see with Andrew Johnson and other presidents at the bottom of history’s rankings. ([Location 661](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=661))
+- throwing out the dues paradigm leads us toward meritocracy. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=671))
+#### Chapter 2 TRAINING WITH MASTERS “The Vocal Thief”
+- we can spend thousands of hours practicing until we master a skill, or we can convince a world-class practitioner to guide our practice and cut the time to mastery significantly. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=762))
+- Mentoring programs break down in the workplace so often that scholarly research contradicts itself about the value of mentoring at all ([Location 784](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=784))
+- One of the most tantalizing ideas about training with a master is that the master can help her protégé skip several steps up the ladder. Sometimes this ends up producing Aristotle. But sometimes it produces Icarus, ([Location 788](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=788))
+- Counterintuitively, however, “Informal mentoring,” Underhill found, “produced a larger and more significant effect on career outcomes than formal mentoring.” The mentorship study data conflicted, it turned out, because of the difference between structured mentoring programs, which were less effective, and mentorship that happened organically. In fact, one-on-one mentoring in which an organization formally matched people proved to be nearly as worthless as a person having not been mentored at all. However, when students and mentors came together on their own and formed personal relationships, the mentored did significantly better, as measured by future income, tenure, number of promotions, job satisfaction, work stress, and self-esteem. ([Location 846](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=846))
+- Both the teacher and the student must be able to open up about their fears, and that builds trust, which in turn accelerates learning. ([Location 875](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=875))
+- The best mentors help students to realize that the things that really matter are not the big and obvious. The more vulnerability is shown in the relationship, the more critical details become available for a student to pick up on, and assimilate. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=877))
+- The problem is that two people can study the same business model, watch the same video, or even take the same advice from a mentor, and one person might pick up critical details that the other misses. The late literary giant Saul Bellow would call someone with the ability to spot important details among noise a “__first-class noticer__.” This is a key difference between those who learn more quickly than others. ([Location 895](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=895))
+    - Tags: [[definition]] 
+- the benefit of an in-person relationship is that the mentor can help the student focus on the most important elements. ([Location 900](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=900))
+#### Chapter 3 RAPID FEEDBACK “The F Word”
+- It turns out that after you adjust for statistical margin of error, an entrepreneur who’d failed in a previous venture was not likely to do better than someone who’d never run a business in her life. ... According to the study, successful entrepreneurs, on the other hand, are 50 percent more likely to succeed in a second venture. The more you win, the more likely you are to win again. ([Location 1083](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1083))
+- So, failing in business doesn’t make us better or smarter. But succeeding makes us more likely to continue to succeed. ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1094))
+- It was indeed a paradox. Screwups got worse. When colleagues screwed up, observers got better. When a doctor succeeded, she did better on her subsequent surgeries. When her colleagues did well, it didn’t affect her. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1128))
+- Staats concluded that this coping mechanism was itself responsible for the paradox. He and his colleagues called this attribution theory. The theory says that people explain their successes and failures “by attributing them to factors that will allow them to feel as good as possible about themselves.” ([Location 1133](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1133))
+    - Tags: [[definition]] 
+- They each attributed their companies’ failures to external factors. Things that made them feel better about themselves. ([Location 1138](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1138))
+- “Even though an individual failure experience may contain valuable knowledge,” Staats says, “without subsequent effort to reflect upon that experience, the potential learning will remain untapped. ([Location 1149](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1149))
+- since individuals tend to seek knowledge about themselves in ways designed to yield flattering results, even if someone were to engage in reflection after failing, he might seek knowledge to explain away the failure.” ([Location 1151](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1151))
+- “People tend to attribute their own success to their effort and ability. Since they have control over their own effort and actions, these attributions motivate them to exert effort in subsequent tasks so that they can continue improving and learning.” ([Location 1155](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1155))
+- However, when failure isn’t personal, we often do the opposite. When someone else fails, we blame his or her lack of effort or ability. When we see people succeed, we tend to attribute it to situational forces beyond their control, namely luck. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1158))
+- Kluger and DeNisi found that, as with bowling anxiety, the closer feedback moves our attention to ourselves, the worse it is for us. ([Location 1206](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1206))
+- The research showed that experts—people who were masters at a trade—vastly preferred negative feedback to positive. It spurred the most improvement. That was because criticism is generally more actionable than compliments. ([Location 1207](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1207))
+- Crucially, experts tended to be able to turn off the part of their egos that took legitimate feedback personally when it came to their craft, and they were confident enough to parse helpful feedback from incorrect feedback. Meanwhile novices psyched themselves out. They needed encouragement and feared failure. ([Location 1210](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1210))
+- THE SECOND CITY MANAGES to accomplish three things to accelerate its performers’ growth: (1) it gives them rapid feedback; (2) it depersonalizes the feedback; and (3) it lowers the stakes and pressure, so students take risks that force them to improve. ([Location 1226](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1226))
+    - Tags: [[coaching]] 
+### Part II LEVERAGE
+#### Chapter 4 PLATFORMS
+- constructionism, or learning by making and manipulating objects. ([Location 1483](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1483))
+    - Tags: [[definition]] 
+- “Part of learning the discipline is learning to communicate in the language of the discipline,” says Dr. David Moursund, ([Location 1502](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1502))
+- The overwhelming majority of academic research about calculators indicates that leveraging such tools improves conceptual understanding. By learning the tool (calculator) first, we actually master the discipline (math) faster. ([Location 1511](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1511))
+- Hands-on learning and the use of tools, he says, helps us to want to learn, to get rapid feedback, and to actually grasp math better than memorizing facts from the bottom up. ([Location 1513](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1513))
+- while we may need deep expertise in our industries to become innovators, we actually need only higher-order thinking and the ability to use platforms to do everything else. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1515))
+- What’s important today is knowing how to use platforms to retrieve the information we need, ([Location 1518](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1518))
+- In an age of platforms, creative problem solving is more valuable than computational skill. ([Location 1520](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1520))
+- We need to know enough about statistics to call BS on propaganda. ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1522))
+- platforms can help us master those basics faster than learning the basics from scratch. ([Location 1523](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1523))
+- (Roughly half of American teachers leave in the first five years.) ([Location 1552](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1552))
+- better-trained teacher is more adept at teaching children how to learn, whereas the coach-turned-geography-teacher will often teach how to memorize. ([Location 1553](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1553))
+- As the saying, attributed to Dr. Seuss, goes: “It is better to know how to learn than to know.” ([Location 1555](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1555))
+- the platform amplifies the effort and teaches skills in the process of using it. ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1613))
+#### Chapter 5 WAVES
+- Luck is often talked about as “being in the right place at the right time.” But like a surfer, some people—and companies—are adept at placing themselves at the right place at the right time. They seek out opportunity rather than wait for it. ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1713))
+- The 20% Doctrine) ([Location 1784](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1784))
+    - Tags: [[inbox]] 
+- when market and technology growth are smooth and steady, the first mover gets the inertia and an advantage. When industry change is choppy, the fast follower—the second mover—gets the benefits of the first mover’s pioneering work and often catches a bigger wave, unencumbered. ([Location 1870](https://readwise.io/to_kindle?action=open&asin=B00IHZUTGA&location=1870))

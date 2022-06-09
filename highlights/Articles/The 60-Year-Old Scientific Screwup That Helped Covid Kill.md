@@ -1,0 +1,21 @@
+# The 60-Year-Old Scientific Screwup That Helped Covid Kill
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
+
+## Metadata
+- Author: [[wired.com]]
+- Full Title: The 60-Year-Old Scientific Screwup That Helped Covid Kill
+- Category: #articles
+- URL: https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill
+
+## Highlights
+- for decades, droplets were seen as the main culprit.
+  Marr decided to collect some data of her own. Installing air samplers in places such as day cares and airplanes, she frequently found the flu virus where the textbooks said it shouldn’t be—hiding in the air, most often in particles small enough to stay aloft for hours. And there was enough of it to make people sick.
+  In 2011, this should have been major news. Instead, the major medical journals rejected her manuscript. ([View Highlight](https://instapaper.com/read/1413615300/16453460))
+- Thinking it might help her overcome this resistance, she’d try from time to time to figure out where the flawed 5-micron figure had come from. But she always got stuck. The medical textbooks simply stated it as fact, without a citation, as if it were pulled from the air itself. Eventually she got tired of trying, her research and life moved on, and the 5-micron mystery faded into the background. ([View Highlight](https://instapaper.com/read/1413615300/16453471))
+- Their findings, they argued, exposed the fallacy of the 5-micron boundary. ([View Highlight](https://instapaper.com/read/1413615300/16453479))
+- In 1934, Wells and his wife, Mildred Weeks Wells, a physician, analyzed air samples and plotted a curve showing how the opposing forces of gravity and evaporation acted on respiratory particles. The couple’s calculations made it possible to predict the time it would take a particle of a given size to travel from someone’s mouth to the ground. According to them, particles bigger than 100 microns sank within seconds. Smaller particles stayed in the air. Randall paused at the curve they’d drawn. To her, it seemed to foreshadow the idea of a droplet-aerosol dichotomy, but one that should have pivoted around 100 microns, not 5. ([View Highlight](https://instapaper.com/read/1413615300/16453498))
+- In the report, Langmuir cited a few studies from the 1940s looking at the health hazards of working in mines and factories, which showed the mucus of the nose and throat to be exceptionally good at filtering out particles bigger than 5 microns. The smaller ones, however, could slip deep into the lungs and cause irreversible damage. If someone wanted to turn a rare and nasty pathogen into a potent agent of mass infection, Langmuir wrote, the thing to do would be to formulate it into a liquid that could be aerosolized into particles smaller than 5 microns, small enough to bypass the body’s main defenses. Curious indeed. Randall made a note. ([View Highlight](https://instapaper.com/read/1413615300/16453523))
+- tuberculosis is a curious critter; it can only invade a subset of human cells in the deepest reaches of the lungs. Most bugs are more promiscuous. They can embed in particles of any size and infect cells all along the respiratory tract. ([View Highlight](https://instapaper.com/read/1413615300/16453544))
+- What must have happened, she thought, was that after Wells died, scientists inside the CDC conflated his observations. They plucked the size of the particle that transmits tuberculosis out of context, making 5 microns stand in for a general definition of airborne spread. Wells’ 100-micron threshold got left behind. “You can see that the idea of what is respirable, what stays airborne, and what is infectious are all being flattened into this 5-micron phenomenon,” Randall says. Over time, through blind repetition, the error sank deeper into the medical canon. ([View Highlight](https://instapaper.com/read/1413615300/16453552))
+- In July, the two women sent slides to Anthony Fauci, director of the National Institutes of Allergy and Infectious Diseases. One of them showed the trajectory of a 5-micron particle released from the height of the average person’s mouth. It went farther than 6 feet—hundreds of feet farther. ([View Highlight](https://instapaper.com/read/1413615300/16479439))

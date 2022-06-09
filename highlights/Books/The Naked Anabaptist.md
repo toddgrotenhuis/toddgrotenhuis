@@ -1,0 +1,93 @@
+# The Naked Anabaptist
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41DnD9UcpjL._SL200_.jpg)
+
+## Metadata
+- Author: [[Stuart Murray]]
+- Full Title: The Naked Anabaptist
+- Category: #books
+
+## Highlights
+- the kingdom of God we are called to is radically different from all versions of the kingdoms of the world. ([Location 36](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=36))
+- kingdoms of the world all manifest the character of Caesar as they seek to rule people and conquer enemies with the power of the sword, the kingdom of God always manifests the character of Jesus, seeking to serve people and love enemies as it manifests the power of the cross. ([Location 37](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=37))
+    - Tags: [[favorite]] 
+    - Note: Had you thought of this distinction, before? (Caesar/rule/sword vs. Jesus/serve/cross)
+- we are called to live in community with others, to live simply, humbly, and justly, and to share our lives and our resources with one another and with all who are in need. ([Location 41](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=41))
+- the vision of the kingdom these tribes are espousing was the general understanding of the church for the first three centuries of its existence. ([Location 44](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=44))
+- salvation was not primarily about getting people to heaven when they die but was about God's transforming power affecting every area of life, society, and creation. ([Location 52](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=52))
+- "I'm so relieved to find others who believe what I do. People in my church think I'm crazy when I go on about these things." ([Location 129](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=129))
+- those who discovered Anabaptism experienced this encounter, as I did, as a homecoming. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=135))
+- Writers from many traditions have spoken warmly of Anabaptism, some suggesting it might be a movement whose time has come and a way of being Christian that makes sense in post-Christendom culture. This strange ecumenism is worrying to some, but deeply attractive to others. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=141))
+    - Note: Why do you think this is?
+- I had a conversation at a recent event with an anarchist who was fascinated by the Anabaptist tradition. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=144))
+    - Tags: [[favorite]] 
+    - Note: There's a large, growing tradition of Anabaptist anarchists.
+- "What would happen if Christians devoted the same discipline and self-sacrifice to nonviolent peacemaking that armies devote to war?" ([Location 168](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=168))
+- early Baptist leaders were deeply influenced by Dutch Anabaptists. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=186))
+- "Emergent represents a rediscovery of the Anabaptist spirit. It's very hard in other Protestant denominations to find people who take Jesus as teacher deeply seriously, and take Jesus' teachings and the Sermon on the Mount, and Jesus' ([Location 195](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=195))
+- the ungrounded world of charismatic spirituality; the intense intellectual world of theology; ([Location 212](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=212))
+- I felt instinctively that Christians should not be ruling society but should be a witness to it, an alternative society with different values. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=218))
+    - Tags: [[favorite]] 
+- It was great to find a group of people who thought similar things to me and to be able to think more deeply about these things. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=227))
+- competing for hearts and minds and, at least as importantly, for the support of various political authorities. ([Location 247](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=247))
+    - Note: Could this be why Anabaptism wasn't _big_ under Christendom?
+- What few historians did was to investigate what Anabaptists wrote or said about themselves or how most Anabaptists actually lived. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=261))
+- One of the obstacles we face as we investigate this tradition is that Anabaptism is sometimes presented in a rather academic way. ([Location 269](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=269))
+    - Note: Agreed. Do you? How do we counter this, or should we?
+- There was a central core of belief and behavior that distinguished them from others and welded them together into a movement, but Anabaptism was never uniform. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=278))
+- There are advantages to this policy, but we recognize that it also has certain drawbacks-not least that the Anabaptist tradition can be presented in an idealistic or disembodied way that is not tested in the rough-and-tumble of church life ([Location 290](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=290))
+- And the Celtic tradition has been mediated through poetry, art, music, and liturgy, rather than academic presentations, making it more accessible than the Anabaptist tradition. ([Location 296](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=296))
+    - Note: Is this related to my concern about worship and intellectualization?
+      A: yes, he covers this in his later book about disenchantment.
+- rebaptizing them years later implied that they-and the society into which they had been inducted-were not truly Christian. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=304))
+- discipleship was not a higher calling for monks and nuns but expected of all believers. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=311))
+    - Tags: [[favorite]] 
+- Some have suggested that in post-Christendom, baptizing one's child is as much an act of spiritual defiance as refusing to baptize one's child was in the sixteenth century. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=316))
+- The Old and New Testaments both call for the people of God to be distinctive, nonconformist, and separate. ([Location 347](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=347))
+- Unlike their Catholic and Protestant contemporaries, Anabaptists never (with the exception of the Munster aberration) persecuted those with whom they disagreed or attempted to coerce conversion. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=353))
+- no membership… ([Location 375](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=375))
+- Creeds are concerned only with beliefs, but Anabaptists are equally… ([Location 378](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=378))
+- 1. Jesus is our example, teacher, friend, redeemer, and Lord. He is the source of our life, the central reference point for our faith and lifestyle, for our understanding of church, and our engagement with society. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=382))
+- 2. Jesus is the focal point of God's revelation. We are committed to a Jesus-centered approach to the Bible, and to the community of faith as the primary context in which we read the Bible and… ([Location 384](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=384))
+- 3. Western culture is slowly emerging from the Christendom era, when church and state jointly presided over a society in which almost all were assumed to be Christian. Whatever its positive contributions on values and institutions, Christendom seriously distorted the gospel, marginalized Jesus, and has left the churches ill equipped for mission in a post-Christendom culture. As we reflect on this, we are committed to learning from the experience and perspectives of movements… ([Location 385](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=385))
+- 4. The frequent association of the church with status, wealth, and force is inappropriate for followers of Jesus and damages our witness. We are committed to exploring ways of being good news to the poor, powerless, and persecuted… ([Location 388](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=388))
+- 5. Churches are called to be committed communities of discipleship and mission, places of friendship, mutual accountability, and multivoiced worship. As we eat together, sharing bread and wine, we sustain hope as we seek God's kingdom together. We are committed to nurturing and developing such churches... ([Location 390](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=390))
+- 6. Spirituality and economics are interconnected. In an individualist and consumerist culture and in a world where economic injustice is rife, we are committed to finding ways of living simply, sharing… ([Location 393](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=393))
+- 7. Peace is at the heart of the gospel. As followers of Jesus in a divided and violent world, we are committed to finding nonviolent alternatives and to learning how to make peace between individuals, within… ([Location 394](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=394))
+- The core convictions are supplementary to such creeds… ([Location 400](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=400))
+- I thank God for those disciples of Jesus who seek no personal power, fame, or ambition, but only long to be faithful to… ([Location 407](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=407))
+- It is great to be involved with a tradition that values the life of Christ as well as his… ([Location 410](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=410))
+- the most difficult and violent situations. That is where Jesus is and where… ([Location 430](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=430))
+- Jesus has often been marginalized-in practice, if not in theory-in the… ([Location 443](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=443))
+- the price the church paid for coming in from the margins to the center was allowing Jesus to be pushed out… ([Location 449](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=449))
+    - Tags: [[favorite]] 
+- Jesus had been killed by the same Roman Empire that now wanted him… ([Location 466](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=466))
+- ...the imperial church could worship and honor Jesus without needing to listen to him… ([Location 477](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=477))
+    - Tags: [[favorite]] 
+- No longer a symbol of nonviolent sacrificial love, the cross was brazenly converted into a military standard. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=479))
+- It is the Jesus of the Gospels, he argues, rather than the Jesus of the creeds, who inspires and challenges many Christians today.' ([Location 508](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=508))
+- All claims to spiritual experience or doctrinal orthodoxy were to be tested against practical discipleship. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=519))
+- There are even accounts of non-Anabaptists arrested on suspicion of being Anabaptists because they lived good lives-and escaping prosecution only by cursing freely and persuading their accusers that they were not really as holy as they appeared. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=524))
+    - Tags: [[favorite]] 
+- Following Christ is inseparably related to knowing Christ. ([Location 530](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=530))
+- Worship and discipleship can be integrated. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=531))
+- We might just find that evangelismis much simpler than we think-telling the story of Jesus and letting him speak for himself. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=541))
+- The language of "following" offers an integrating framework for churches who want to be welcoming and inclusive but also want to see movement toward believing and behaving. ([Location 546](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=546))
+    - Tags: [[favorite]] 
+- Jesus also called those who were hanging out with him to change their behavior and rethink their beliefs. ([Location 549](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=549))
+    - Tags: [[favorite]] 
+- It was in the area of ethics that the teachings of Jesus seemed to have been marginalized in favor of Old Testament practices. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=586))
+- Trusting the Holy Spirit to enable interpreters does not mean that the text becomes straightforward and free of difficulties. ([Location 592](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=592))
+- Bible study that does not lead to more faithful and creative… ([Location 605](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=605))
+- Early Anabaptists were convinced that interpreters would not make progress in understanding the Bible unless they were already practicing what they did understand. And as they attempted to put into practice what they believed Scripture taught, the consequences… ([Location 607](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=607))
+- expectation that all members of the community would be active and vocal participants, rather… ([Location 618](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=618))
+- Anabaptists were scandalized by the way Jesus was being marginalized in systems of biblical interpretation that seemed to privilege other parts of… ([Location 638](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=638))
+- It was these narrative accounts, with their provocative encounters and their enigmatic but challenging teaching, culminating in the death and resurrection of the One who was too threatening for the religious and political… ([Location 645](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=645))
+- But as they started to realize the malign influence of the Christendom shift on this aspect of their faith, many decided to go back to the Gospels, listen afresh to Jesus, and accept the… ([Location 657](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=657))
+- Rejecting Christendom brought down on their heads the wrath of church and state. These movements were accused of treason… ([Location 668](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=668))
+- Christendom was a political arrangement in which church and state provided mutual, if often uneasy,… ([Location 690](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=690))
+- Imperial armies, fighting under the "sign of the cross," conquered new territories and imposed the Christian… ([Location 697](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=697))
+- Undergirding this civilization was the notion of a "sacral society," in which religion and politics, public and private, church… ([Location 703](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=703))
+- State power backed up the spiritual and moral requirements of the church, which in turn blessed the… ([Location 706](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=706))
+- Christendom missionaries usually assumed that their cultural expression of Christianity was normative, and… ([Location 712](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=712))
+- the sixteenth-century reformers, who were attempting to purify and renew the church, ended up fracturing Christendom into competing mini-Christendoms-Lutheran,… ([Location 714](https://readwise.io/to_kindle?action=open&asin=B003EOAD4C&location=714))

@@ -1,0 +1,513 @@
+# The Map
+
+![rw-book-cover](https://is2-ssl.mzstatic.com/image/thumb/Publication30/v4/ca/96/2f/ca962fc3-1d7c-2e50-b523-479c0e523865/The_Map_cover.jpg/1400x0w.jpg)
+
+## Metadata
+- Author: [[Keith M. Eigel, PhD]]
+- Full Title: The Map
+- Category: #books
+
+## Highlights
+- Ultimately, satisfaction comes not from reaching the destination, but by continuing to grow
+- how we see ourselves and others determines our effectiveness as leaders
+- That is what growth does, both physically and developmentally. It makes you stronger, more effective, and more satisfied. It is energizing because growth feeds on itself
+- if you don’t stretch your leadership muscles, your influence atrophies and your effectiveness wanes
+- personality, strengths and weaknesses, and best practice behaviors (your vehicle, baggage, and fuel respectively
+- The more specific you are about your destination, the greater the likelihood you will make decisions along the way that will take you where you really want to be
+- Everyone will use the same Map, but for each person the route may be different
+- How would you describe your vehicle (personality), baggage (knowledge, skills, and abilities), and fuel (level of developmental energy)?
+- Lateral development is “acquired knowledge” and Vertical development is “insight that changed you.
+    - Tags: [[definition]] 
+- “It’s not the experience that is important, but what you make of that experience that matters.”
+    - Tags: [[resilient]] 
+- threats become opportunities
+- no single factor better predicts your effectiveness than where you are on your Vertical journey.
+- Lateral development can be thought of as what we know. Vertical development is not what we know, but how we know what we know
+- Vertical development is changing who we are in relationship to the problem.
+- Vertical development usually occurs in the wake of challenging experiences
+- Challenging life experiences either accelerate or arrest Vertical growth. The more challenging the experience, the greater its potential to bring about Vertical development
+- When we persevere through adversity (challenge), we develop character (maturity) and continue to grow
+- Persevering by leaning into challenges (rather than avoiding them) is necessary for Vertical development to occur
+- we can also persevere intentionally when a challenge is avoidable. When we do, we accelerate Vertical growth with intention
+- Small steps that lean into an otherwise avoidable challenge build strength of understanding over time
+- We move from one level to the next as we learn to see the world around us from a more advanced perspective
+- At Level 2 we begin to realize that there is reality independent of our perceptions
+- Level 2 adults who lead teams are anything but cute. A middle school leadership style in a forty-year-old body creates organizational havoc and distress among those who report directly to a Level 2 leader. To them, you’re a competitor—a potential threat to their promotion, their success, their bonus
+- arrested development at Level 2 can be very scary; it can border on sociopathic
+- Level 2 teens will be challenged when they realize that getting their way is actually not the real win—the bigger win is when they suspend their own agenda to coordinate it with others. They begin to empathize and see the world through the eyes of others
+- We may have a wide assortment of influences, but the common bond is that we take to heart what valued others tell us.
+- By self-authored, I mean that you take ownership and responsibility for the kind of person you want to become, even as you realize you will still need others to help you realize that aspiration
+- Quite often, Level 3 managers avoid making decisions at all costs. Their default decision-making preference is to take a vote
+- it is not until we are more Level 4 than we are Level 3 that we are seen as being effective in our leadership roles, formal or informal.
+- Prior to Level 4, leadership ability is usually based on intelligence, expertise, communication skills, charisma, etc
+- what Level 4 leaders may lack in charisma, communication skills, intelligence, or expertise, they make up for in maturity and self-awareness
+- Living an “Inside-Out” life is challenging because I’m ultimately responsible for my decisions
+- Teams win when teammates know and accept their responsibilities, and teams lose when they point the finger and blame each other
+- One of the biggest challenges at Level 4 is to keep growing Vertically
+- When they stop listening to others and stop learning, they stop growing as leaders.
+- Although there are notable exceptions, most people who make it to this point are in their sixties or older
+- This new organizing filter will view the world, others, and self through a universal, higher-order set of values or principles, including honesty, integrity, being open to and valuing others, and courage.
+- At Level 5 we understand that something bigger than just our paradigm needs to hold all of the different possible paradigms together
+- Eight to ten percent of adults stop growing at Level 2
+- You have to see challenges as opportunities for growth—for yourself and for those you lead.
+- Self-interest is the lens through which Level 2 individuals view themselves
+- a Level 2’s extraordinary efforts not to lose can include verbal or even physical abuse.
+- How do Level 2 leaders rise to positions of authority? Some are the founding entrepreneurs of an organization that has been successful
+- Level 2 leaders often have high intelligence or great expertise, but eventually it becomes evident that such positive attributes are no substitute for Vertical development
+- Level 2 leaders can understand that someone else’s position is different from theirs, but they don’t realize that isn’t the same as actually understanding the different position
+- many parents are like those who shielded Agassi: they try to protect their children from the consequences of their choices. They prevent them from experiencing the challenges and contradictions that force them to grow
+- Their whole identity is defined by the responses they receive
+- if you have middle-aged friends or family members who still get their identity from their profiles, their status, or their “walls,” it seems a little weird and kind of sad
+- it will be a while before they learn that not all outside sources of advice are equally valid
+- The problem with leaders at lower levels is they are more susceptible to peer pressure than higher-level leaders
+- at Level 3 we are prisoners of circumstance—we don’t handle our circumstances: our circumstances handle us.
+- Often others’ perceptions—whether positive or negative—become a self-fulfilling prophecy
+- One way to understand the Level 3 lens is to see it in terms of this Pygmalion effect, where every outside influence helps shape our understanding of ourselves and our world.
+- at Level 3, “We don’t have relationships; we are our relationships.”
+- At Level 3 we also tend to confuse our identity with our roles
+- A person normally reaches Level 3 at around age twenty-two
+- Level 3 parents helplessly cede control of their own well-being to their children
+- Similarly, managers whose development arrests at Level 3 can be completely defined by their roles
+- Do you see the tough circumstances in your life as a classroom or a prison
+    - Tags: [[favorite]] 
+- Presuming everyone else is where we are developmentally is a common trait across all levels before a person reaches Level 5
+- Therefore, at Level 3 it is normal, even if unnecessary, for us to want to take responsibility for the way others see themselves
+- Feeling another person’s joy and sorrow (empathy) is a good starting point, but that’s also where insecure people stop
+- Level 3 people believe they are saying the right thing by lying, but usually they are just protecting the relationship by not dealing with their own uncomfortable feelings.
+- At Level 3 we are very focused on unit or team morale and believe it defines success
+- At Level 3, my well-being and understanding of myself are defined by someone else because I’m fully outside-sourced
+- Level 3 leaders’ identities are largely shaped by their position and formal power in the organization
+- In his reliance on outside sources to make sense of his situations, and to know what to do, it was easy to see how novel circumstances cause confusion or uncertainty
+- One of the difficult things about critiquing people whose development is arrested at Level 3 is they maintain a congenial connection to others and their circumstances, which is often quite likable and endearing
+- The challenge of coaching Level 3 leaders is their inability to take responsibility for their own mistakes, a factor that greatly undermines their ability to grow
+- Managers at Level 3 go to great lengths to blame others for their errors in judgment or their poor decisions
+- Level 3 leaders prefer for the team to vote on any significant decision. This effectively allows the leader to deny responsibility and deflect blame if the decision proves to be a mistake
+- The move to Level 4 is about owning one’s own values, standards, and objectives—transitioning from an Outside-In to an Inside-Out perspective
+- Level 3 followers develop the philosophy of, “Don’t rock the boat
+- The blind spot, however, is that we will confuse knowing a position with owning that position
+- He is at a loss why she wants him to be upset—he can’t see how his anger or worry would help in any way.
+- other people do not necessarily perceive the world the same way he does
+- Those at a higher level of Vertical development must take responsibility for seeing the perspectives of those at lower levels. This is especially true at Level 4 after we make the major shift from an Outside-In to an Inside-Out
+- The transition from Level 3 to 4 focuses on taking responsibility in every part of your life
+- Challenges, even in broken relationships, force us to reevaluate and grow, so the areas where we are most significantly challenged (for many of us, our careers) are where we grow first into Level 4
+- Challenging circumstances are the catalysts that provide the potential for growth to the next level
+- you will certainly encounter contradictions to your beliefs, and those contradictions will leave you two options: keep letting other outside sources determine what you believe, or do the difficult work of reconciling the contradictions from the inside out. The former can arrest your development; the latter will lead to growth
+- There’s a difference between saying “He made me angry,” and “I got angry when he did that.” When he makes you angry, you’re being “done to” from the outside in. But when you get angry that someone did something, you’re taking responsibility for the anger from the inside out
+    - Tags: [[favorite]] 
+- Reflecting on how to take responsibility for your most visceral emotions can actually be a great tool for intentionally accelerating your own growth
+- For the first time, a Level 4 leader can make personal value decisions that are in the best interest of the institution—without arrogance or timidity
+- Sadly, in such real-life scenarios it is often the second or even third wife who reaps the benefit of the positive development that could (and should) have taken place when the crisis first arose
+- It’s not the news; it’s what you do with that news.
+- At Level 4 you don’t want someone else to lay out every step that needs to be taken, and you don’t look to outside sources to figure out what to believe and how to respond to any given situation
+- What you desire is a self-defined goal because you know what to do and what success means
+- Success at Level 4 can create a subtle danger. The more success we achieve in using our new paradigm, the more certain we are of its effectiveness
+- rigidity will ultimately lead to irrelevance as the world continues to change
+- beware: Level 4 security and confidence can be mistaken for cockiness by those who haven’t yet experienced the strength of this Inside-Out level of development
+- Level 4 leaders are so often successful at leading others because they are secure enough to listen and confident enough to make hard decisions, which, in turn, engenders confidence in their leadership
+- Level 4 leaders have integrated them into their identity, demeanor, and communication
+- We said earlier that we speak of Level 3 leaders as being their relationships or roles more than having them. Similarly, at Level 4, more than merely having our values, we are those values.
+- The mirror you use at Level 4 is the one in which you see your own reflection as both chief critic and chief supporter
+- No longer will the feedback from others define you, rather it refines you. At Level 4 you have a confidence that comes from knowing who you are, and then you can seize feedback as a challenge to your understanding that will provide fuel for continued growth
+- Since you don’t expect others to be responsible for your self-esteem at Level 4, the idea that you might be responsible for someone else’s self-esteem seldom crosses your mind
+- People who report to Level 4 leaders frequently complain that they don’t receive positive feedback, only criticism. Level 4 leaders need to recognize that those who look to them for leadership may be so tied to (and defined by) the goal or initiative that they might take any sort of criticism (even about the goal or initiative) personally
+- Great leaders don’t insist that others meet them at their level; they are adept at going to where the others are.
+- the higher your level, the more effective you are as a leader; and second, you don’t truly become an effective leader until you reach a place of self-authorship at Level 4.
+- Being for them means she is invested in others’ development and growth
+- But a Level 4 leader delegates to enable team members to develop skills, gain experience, and perform more effectively—not just in their current position, but also in preparation for their next one
+- A second option to get unstuck at Level 4 is to intentionally serve others in ways that lead to their development. This will cause our Level 4 understanding to be challenged and contradicted, because as we authentically seek to understand the ways others see and do things, we will begin to see that ours is not the only valid way.
+- The vast majority of people who make it to Level 4 arrest their development there. Research suggests that up to eighty-five-percent of the population stops growing at Level 4 or below
+- Vacations, afternoons at the club, golf, or a bottle of good wine can take our minds off of late-in-life challenges that could help us continue to grow. Other distractions are available for those who aren’t as wealthy: television, beer, or simply hanging around with like-minded friends can serve the same purpose.
+  Without continued challenge and contradiction, which are essential to growth, a Level 4 lens will become increasingly fixed, especially if great success allows new challenges to be easily avoided or purchased away. Why should I change my way of doing things if it’s working
+- Relevance is what Level 5 leaders develop: they stay grounded in the things that don’t change—the values that underpin the generational differences—but remain open to new ways of realizing those values
+- As we have learned, at each level of development all of our previous lenses are at our disposal
+- Level 5 leaders exhibit such great wisdom
+- they make sure everyone is heard and that the team walks out of the meeting not necessarily in total agreement, yet committed to the decision
+- Level 5 leaders are more open to hearing what is new in the situation than Level 4 leaders, and they try to expand the vision of the entire team
+- At Level 5 we are able to take an objective view of even ourselves
+- This Level 5 perspective includes openness, honesty, courage, justice, selflessness, productivity, service, respect for the inherent value of others, authenticity, and vulnerability
+- Values and convictions drive effective behavior
+- we can detect little, if any, deviation among Level 5 values across gender, nationality, or culture. They are universally recognized as good and right
+- Level 5 leaders are effective precisely because they live in the tension of the contradiction of their opposing values
+- They consider the options and make the best decision for the moment, although they may make a different decision next time
+- When the self-authored paradigms we held at Level 4 no longer define our understanding, we can take an increasingly objective view of ourselves and compare our paradigms to those of others
+- This ability to rise above ourselves is what we perceive as wisdom in Level 5 leaders, and it explains why we feel understood, enlightened, and energized when we are around such highly developed individuals.
+- even from Level 3, it is to our benefit to engage in the behaviors and adopt the values of Level 5 leaders through our Level 3, Outside-In lens. Doing so will propel development as we continue to take advantage of the challenges that can accelerate growth toward a Level 5 destination
+- Level 5 lens will increasingly filter or make sense of everything around you—including your identity, goals, relationships, choices, and legacy—through these values
+- When Level 4 leaders self-author an understanding that is not as open or service-minded, the transition to Level 5 is more difficult
+- We all have known Level 4 leaders whose values are characterized more by achievement of objectives than by selflessness, by self-protection more than vulnerability, by promoting their own way more than serving others, and by maintaining their system more than being authentic
+- What is the most generous, most helpful, or most service-minded thing I can do
+- When the higher-order ethic of Level 5 becomes our lens, it also becomes the organizing principle by which we view all of our previous lenses
+- justice, mercy, goodwill, honesty, courage, and valuing others.
+- One hundred percent of the Level 5 leaders we have interviewed confirm with their behaviors that this serving-the-growth-of-others orientation may be the best way to move from Level 4 to Level 5
+    - Tags: [[favorite]] 
+- when we look at the life of Jesus through this Level 5 prism, the apparent paradoxes in some of his behaviors are resolved. Some people are bothered by differences (i.e., the paradoxical values of justice vs. mercy, or truth vs. love) that, seen through earlier lenses, often seem like contradictions. But using a Level 5 lens, those teachings become remarkably consistent and easily reconciled in light of a higher-order perspective
+    - Tags: [[favorite]] 
+- We become able to take an objective view of our preferred paradigm, which was something we couldn’t do at Level 4
+- Oddly enough, one of the biggest impediments to moving to Level 5 is success
+- Because we are others-oriented and open to contrasting views, we will naturally continue to reevaluate and refine our understanding of ourselves—this refinement is the process of becoming increasingly Level 5
+- Becoming Level 5 means learning things you didn’t even know you didn’t know about yourself
+- the most powerful source of renewable energy for a leader is deep personal reflection
+- you reflect from Level 5, become intentional in the development of others, and seek integration of your ideas with others, then you are likely leading with greater maturity and effectiveness.
+- Level 5 leaders understand the inherent value of others
+- Paradoxically, by acting on what they saw through their selfless lens, their influence and stature increased
+- A Level 2 perspective would insist that one group win and one group lose. A Level 3 perspective would require that we all just get along. A Level 4 perspective would focus on managing our differences effectively. But from the unique perspective of Level 5, differences are appreciated and leveraged toward the achievement of our common interests
+    - Tags: [[favorite]] 
+- This is a common criticism directed toward Level 5 leaders. Their willingness to fully meet others where they are, including making sure the other feels understood, is sometimes perceived as uncertainty or indecision
+- Never is your vision exactly the same year after year. You clarify it by the events that happen around you
+- In every Level 5 interview I have conducted, conflict is viewed as a value more than a problem that needs to be managed
+- Level 5 leaders reflect deeply about the best interests of the organization and how to contribute to the larger community.
+- what I have tried to do is to create an atmosphere in which nobody’s afraid to challenge us about our decisions and what we’ve done, because that feedback is critical not just for us, but for them and the whole organization
+- being open to feedback has a positive impact on the growth of others
+- Level 3 leaders can work hard to identify and commit to values they don’t want to compromise, and they can intentionally evaluate their actions against those values even in the face of outside sources pushing in a different direction
+- Level 4 leaders can intentionally practice Henry’s behavior of listening to what others really need and seeking to meet them where they are so they can do their jobs more effectively, achieve an objective, or just keep growing
+- Level 5 responses more effective than any of the lower level responses in dealing with leadership issues like complexity, conflict, motivation, change, and developing others
+- At Level 5, there is an others-focused, big-picture, greater-good orientation to the responses.
+- Do they, while being served, become healthier, wiser, freer, more autonomous, and more likely themselves to become servants
+- When we meet a real Level 5 leader, most of us instinctively crave the wisdom, effectiveness, broader perspective, peace, humility, happiness, and satisfaction that indicate the individual has reached his or her Promised Land.
+- For many people, merely understanding the Map and the importance of leaning into (rather than avoiding) challenges unleashes growth that has been corralled for years
+- Vertical development from one level to the next occurs only when we face challenging circumstances that contradict our current understanding and then persevere through them until the existing tension is reconciled
+    - Tags: [[favorite]] 
+- What can I learn new about me in these circumstances
+    - Tags: [[favorite]] 
+- Intentionally embracing contradictions in life becomes more natural with practice
+- Embracing challenges big and small increases the numerator in the equation and accelerates growth.
+- The formula nudges you to consider what life would be like if you were bolder in the face of difficulties
+- perseverance is the real ticket to growth
+- Masking challenges with drugs, alcohol, or some other form of avoidance also suppresses perseverance
+- Assessment relationships are those with people who observe your attempts to challenge yourself in new ways toward your goals
+    - Tags: [[definition]] 
+- The second type of developmental relationship is the challenge relationship where you submit yourself to the accountability and feedback of people who don’t have a stake in your goals or strategies (other than wanting what is best for you
+- The third type of relationship is the support relationship
+- Step 1: Embrace Your Complaints
+- ignoring or suppressing your complaints will not lead to growth
+- Complaints shed light on our values or on those things that matter most to us
+- Regardless of the level, our complaints can identify our point of stuckness by acting as an internal guide to reveal the values that mean the most to us
+- Step 2: Identify Your “Bigger-Me” Values
+- Inside-Out Instructions for Identifying Bigger-Me Values
+    - Tags: [[inbox]] 
+    - Note: This was probably supposed to be a heading?
+- What I value or care most about is
+- ask yourself why that matters to you. When you get that answer, ask yourself why again. Keep asking until you want to say, “I don’t know why—that’s just who I am!”
+- By repeatedly asking yourself “why?” you are trying to elevate your initial response to one with more impact on others, or to a purpose bigger than yourself.
+    - Tags: [[reflection]] [[coaching]] 
+- Step 3: Take Responsibility
+- What I could do that I haven’t done to more fully realize this
+  bigger-me value is ________
+- As we said, at this step it is important to think of something you have not done or are not currently doing—it’s not a revision of something you have already tried, and not doing more of the same thing, only harder
+- resist any temptation to jump to the most convenient answer that seems to resolve your complaint. This step is your opportunity to identify not the solution to your complaint, but rather to highlight the anxiety that may be keeping you stuck
+- If you solve the complaint, you steal your opportunity to use it for growth
+- Step 4: Name Your WFRs (Worry, Fear, or Resistance
+- the action you proposed in Step 3 raised a sense of worry, fear, or resistance, you’re on the right track
+- By naming them you minimize the potential they have to paralyze you from taking actions that might improve your situations and circumstances.
+- The worry, fear, or resistance holding you back from doing what you know you could be doing is not hard to identify—hard to admit to, for sure, but not hard to identify
+- Step 5: Identify Your “Smaller-Me” Values
+- What do you do to protect yourself from your Step 4 WFRs?
+    - Tags: [[coaching]] 
+    - Note: worries, fears, resistances
+- List all the self-protective behaviors or strategies you use to keep from having to experience your worry, fear, or resistance
+- What do these self-protective behaviors tell you that you might also value
+- In fact, a good rule of thumb is that if you aren’t a little embarrassed, ashamed, or creeped-out by what you write, you need to look at yourself a bit closer and be more honest
+- These Step 5, smaller-me values should be in tension with your Step 2, bigger-me values—and that’s the whole point. It is identifying the contradiction between the two that enables you to identify your gateway for Vertical growth
+- The point of this step is to accept the fact that you are this smaller value too—but not to let it define you
+- when you are able to reconcile the tension or contradiction between Steps 2 and 5, you will probably have outgrown the complaint.
+- The way to avoid arresting your development is through intentionality and perseverance
+- During the next year I want to become better at [insert your bigger-me values] and not be held in place by [insert your smaller-me values].”
+- It should be broader than the specifics of work or home, and should have application in both.
+- What did I learn new about myself in relationship to my GO Statement
+- Rather, small steps need to shed a clarifying light on the anxiety that holds you in place and increase your chances to grow your level and your leadership
+- if we can tolerate the consequences of not growing, we don’t grow
+- At higher levels of development, parents’ love is about creating challenging opportunities for their children, while also ensuring support for them should they fail.
+- When trying to help Level 2 adults grow in the workplace, we need to be more concrete than we may believe is necessary—ambiguity only confuses them
+- Behaviors that require Level 2s to suspend their own agenda and coordinate it with others’ agendas need to be rewarded
+- Level 2 where we are comfortable with a me-first way of understanding the world, the developmental disruption comes when we see that attending to only our own agenda actually limits our success
+- The more Level 3 dominant we are, the more we will feel outstripped by the demands of situations that cannot be resolved using previously learned solutions
+- One result for many of us is that what we hold to be true is challenged constantly. Some respond to this challenge by surrounding themselves with like-minded people and perspectives. But a better option is to pursue real growth by beginning to self-author our own perspectives in a way that incorporates some of the different perspectives
+- understanding others’ positions in a way that they feel heard, without feeling the need to agree and taking ownership of a new understanding of oneself and the other in the midst of the differences that led to the conflict
+- When money gets tight, the contradictions provided by the challenge (evaluating and prioritizing spending, aligning expenditures with values, resolving the tension between earning money and spending time with the family, etc.) prompt a reevaluation of who we want to be and the story we want to tell
+- This dynamic helps explain why multigenerational family wealth often results in noticeable developmental immaturity in the third generation
+- during times of abundance we need to be more intentional about submitting to and seizing the more subtle opportunities for growth
+- Who do I want to be?
+  What is the story I want to tell?
+  What matters most to me?
+  What am I willing to stand for?
+  How will I know what to do?
+- But when the truth soaks in and they recognize the value of their complaints and/or blaming as a tool to help them identify challenges and take responsibility for their own development, they can take the first step to accelerating their growth to a place of greater effectiveness and satisfaction
+- If your leadership style revolves around a strong value you have, name it, and explain why you’re using it
+- Circumstantial Challenges?
+  Relational Challenges?
+  Belief Challenges
+- these days more people are probably stalled due to the ease of life rather than difficulty
+- Giving up the Level 4 self feels like a death of the things that we are most protective of, and it feels like we are exposing ourselves to a potentially unsafe vulnerability
+- We all tend to look at what’s in our hands to solve problems. Unless we’re forced to try something new, we don’t even think about other options
+- The challenge is to be open to new ways of doing things, new tools, new processes, and new people
+- If we choose, we can make progress toward Level 5 by intentionally submitting ourselves to challenges that contradict our current understanding, such as exposure to other political ideologies or religious beliefs
+    - Tags: [[favorite]] 
+- These three areas of challenge involve your family, your faith, and your biases
+- Intentional growth toward Level 5 comes in learning to lean into the jabs (or at least some of them) in order to gain a new and deeper understanding of our own vulnerability or weakness
+- opening ourselves to a more objective view of our faith will deepen that faith even as it deepens our understanding of everything else from a Level 5 perspective.
+- What they are saying makes sense to them. I just don’t understand it yet
+    - Tags: [[curious]] 
+- The goal in all these cases is to begin to not only see a larger whole and find points of commonality, but even more to begin to take an objective view of the weakness and vulnerability of your own understanding
+- One of the fundamental paradoxes of Level 5 is being a person of conviction while also being a person of curiosity
+    - Tags: [[favorite]] 
+- third challenge (closely related to the previous one) we can intentionally submit to is attempting to understand cultural differences in a way that pushes up against our deepest biases—personal tendencies toward one thing over another
+- If we think we don’t have biases, that presumption is a pretty good indication of our Level 4 limitations
+- The most pragmatic way to engage in this pursuit is through a reciprocal relationship with someone of a different race or culture
+- This type of conversation can emerge only when both parties are totally committed to understanding the other without simultaneously defending their own understanding.
+- By openly and intentionally considering perspectives different from our own, we have the opportunity to see our perspectives in new ways that highlight previously hidden vulnerability
+- is very difficult to voluntarily submit to the challenge of other perspectives in the areas of beliefs, family, and biases
+- Unlike all previous levels, the motivation to grow at Level 4 has to be self-imposed unless an unavoidable (and usually traumatic) challenge contradicts our Level 4 lens. This is why most people stop growing at Level 4
+- Those who give forethought to their legacies tend to author decidedly Level 5 goals.
+- the world has no shortage of individuals who stop growing after achieving success with an effective, self-authored, Level 4 understanding
+- The most effective way to accelerate growth from Level 4 to Level 5 is by investing in the growth of others
+- The biggest key in moving from Level 4 to Level 5, especially in terms of intentional development, is the need to focus all of your efforts on creating a new kind of openness and vulnerability
+- Is there a third way to resolve the impasse? How can I be bigger and incorporate what the other is saying into my way of thinking
+- Effective leaders see a lot of gray in life, but they help others define expectations and “the right thing” to do. What makes Level 5 leaders unique is having strong standards for their conduct and for others while simultaneously being open to having those values questioned
+- Leaning into faith challenges? (Where will you start?)
+- Investing yourself in others? (If so, who comes to mind
+- Leaning into bias challenges? (Who is someone with whom you can dialog
+- Rather than wearing you down, as service tends to do whenever it is forced, your investment in others is what energizes you.
+- On a scale of 1 (least) to 10 (most), how would you rate your level of perseverance? Give some examples. How might you increase your number
+    - Tags: [[reflection]] 
+- If you had a clearer understanding of yourself, the world, and others, who are some people you would like to help? What problems are they facing that seem to be overwhelming them at this point?
+    - Tags: [[coaching]] 
+- Not only will you become a better leader, whatever your role may be, but you will also live a more satisfied and energized life. That is what growth does, both physically and developmentally. It makes you stronger, more effective, and more satisfied. It is energizing because growth feeds on itself.
+- Rather, our preferred way will not limit our capacity to realize the higher-order values that are now the lens through which we see and understand our worlds. We become able to take an objective view of our preferred paradigm, which was something we couldn’t do at Level 4.
+- Rather, they make sure everyone is heard and that the team walks out of the meeting not necessarily in total agreement, yet committed to the decision. Level 5 leaders are more open to hearing what is new in the situation than Level 4 leaders, and they try to expand the vision of the entire team.
+- What is it that makes Level 5 leaders so effective? As we have learned, at each level of development all of our previous lenses are at our disposal.
+- It is essential to meet people where they are, so any initial Level 3 behaviors must at first be rewarded through the person’s still-Level-2 lens, which can create confusion. Behaviors that require Level 2s to suspend their own agenda and coordinate it with others’ agendas need to be rewarded.
+- But by studying the Map, you can determine not only your current location, but also what your next steps need to be, and their order, to journey more effectively to your developmental Promised Land. Everyone will use the same Map, but for each person the route may be different.
+- Each of these challenges involves people or situations close to your heart, so they provide the best connections to an inner vulnerability that you may not even be aware of. These three areas of challenge involve your family, your faith, and your biases.
+- He had a remarkable ability to see and evaluate all sides of any problem, and if there was any frustration with his leadership, it was that he was perceived as being too deliberate and not decisive enough. This is a common criticism directed toward Level 5 leaders. Their willingness to fully meet others where they are, including making sure the other feels understood, is sometimes perceived as uncertainty or indecision.
+- One of the biggest challenges at Level 4 is to keep growing Vertically.
+- Our own perspectives become much clearer in contrast to the perspectives of others. This type of conversation can emerge only when both parties are totally committed to understanding the other without simultaneously defending their own understanding.
+- List all the self-protective behaviors or strategies you use to keep from having to experience your worry, fear, or resistance.
+- The reason we complain is because something we care about is being threatened. Complaints shed light on our values or on those things that matter most to us.
+- If we choose, we can make progress toward Level 5 by intentionally submitting ourselves to challenges that contradict our current understanding, such as exposure to other political ideologies or religious beliefs.
+- Research reveals many examples of people who have arrested their development, or stopped growing prematurely. Eight to ten percent of adults stop growing at Level 2.
+- Actually, arrested development at Level 2 can be very scary; it can border on sociopathic.
+- Since effectiveness and happiness come from without—in an unhealthy way—Level 3 parents helplessly cede control of their own well-being to their children.
+- The same principle applies to developmental fitness. Small steps that lean into an otherwise avoidable challenge build strength of understanding over time.
+- Only in interviews with Level 5 leaders have we routinely heard people comment that being open to feedback has a positive impact on the growth of others.
+- Intentional growth toward Level 5 comes in learning to lean into the jabs (or at least some of them) in order to gain a new and deeper understanding of our own vulnerability or weakness.
+- Step back and examine yourself. How would you describe your vehicle (personality), baggage (knowledge, skills, and abilities), and fuel (level of developmental energy)?
+- Bob Kegan, a colleague and noted psychologist who has been conducting research on Vertical development for almost forty years, says that at Level 3, “We don’t have relationships; we are our relationships.”26
+- Regardless of the level, our complaints can identify our point of stuckness by acting as an internal guide to reveal the values that mean the most to us.
+    - Tags: [[favorite]] 
+- They know opposites exist and feel comfortable with them. They consider the options and make the best decision for the moment, although they may make a different decision next time.
+- The most effective way to accelerate growth from Level 4 to Level 5 is by investing in the growth of others.
+    - Tags: [[favorite]] 
+- Level 5 leaders understand the inherent value of others.
+- One of the biggest blind spots at Level 2 is an inability to empathize with others. Level 2 leaders can understand that someone else’s position is different from theirs, but they don’t realize that isn’t the same as actually understanding the different position.
+- At Level 3 we are very focused on unit or team morale and believe it defines success (even more so than achieving important objectives).
+- This contrast has been studied in the leadership research literature for the past several years. Lateral development is “acquired knowledge” and Vertical development is “insight that changed you.” Most of what goes on in academic classrooms, or from watching shows like Animal Planet, is acquired knowledge.
+    - Tags: [[definition]] 
+- Just as it was appropriate to celebrate Level 2 when it was the normal time to be at that stage, we can celebrate Level 3 at the appropriate time as well. A person normally reaches Level 3 at around age twenty-two.
+- The formula nudges you to consider what life would be like if you were bolder in the face of difficulties.
+- We have stated a number of times already that Vertical development from one level to the next occurs only when we face challenging circumstances that contradict our current understanding and then persevere through them until the existing tension is reconciled.
+    - Tags: [[favorite]] 
+- You want a high-level, aspirational, but directional statement. It should be broader than the specifics of work or home, and should have application in both.
+- Second, motivation to grow to the next level happens only when the benefits of growing outweigh the consequences of not growing—if we can tolerate the consequences of not growing, we don’t grow.
+- Rather, they were motivated to an extreme extent by the growth and welfare of others, whether individuals or society as a whole. Paradoxically, by acting on what they saw through their selfless lens, their influence and stature increased.
+- Still, it will be a while before they learn that not all outside sources of advice are equally valid.
+- 3. If you had a clearer understanding of yourself, the world, and others, who are some people you would like to help? What problems are they facing that seem to be overwhelming them at this point?
+- As we previously mentioned, Level 3 leaders prefer for the team to vote on any significant decision. This effectively allows the leader to deny responsibility and deflect blame if the decision proves to be a mistake.
+- Level 4 leaders can intentionally practice Henry’s behavior of listening to what others really need and seeking to meet them where they are so they can do their jobs more effectively, achieve an objective, or just keep growing.
+- They ask, “Is there a third way to resolve the impasse? How can I be bigger and incorporate what the other is saying into my way of thinking?”
+    - Tags: [[reflection]] 
+- Yet ultimately, those who continue to grow toward Level 5 will begin to see the limitations of even their own Level 4, self-authored paradigm as it, too, is challenged and contradicted over time. Although there are notable exceptions, most people who make it to this point are in their sixties or older.
+- When the self-authored paradigms we held at Level 4 no longer define our understanding, we can take an increasingly objective view of ourselves and compare our paradigms to those of others. This ability to rise above ourselves is what we perceive as wisdom in Level 5 leaders, and it explains why we feel understood, enlightened, and energized when we are around such highly developed individuals.
+- Success at Level 4 can create a subtle danger. The more success we achieve in using our new paradigm, the more certain we are of its effectiveness.
+- Living an “Inside-Out” life is challenging because I’m ultimately responsible for my decisions.
+- Give it a rest!” But when the truth soaks in and they recognize the value of their complaints and/or blaming as a tool to help them identify challenges and take responsibility for their own development, they can take the first step to accelerating their growth to a place of greater effectiveness and satisfaction.
+- We’ve found that Level 5 leaders reflect deeply about the best interests of the organization and how to contribute to the larger community.
+- We may find great relief in getting fired because we’re escaping a Level 2 boss! It’s not the news; it’s what you do with that news.
+- Sixty years of modern psychological research has shown these insights on the value of challenges to be true. When we persevere through adversity (challenge), we develop character (maturity) and continue to grow.
+- As we said, at this step it is important to think of something you have not done or are not currently doing—it’s not a revision of something you have already tried, and not doing more of the same thing, only harder.
+- From our research, we can detect little, if any, deviation among Level 5 values across gender, nationality, or culture. They are universally recognized as good and right.
+- In other words, at Level 3 we are prisoners of circumstance—we don’t handle our circumstances: our circumstances handle us.
+- At Level 4 we take responsibility for ourselves because we gain an Inside-Out understanding of everything (world, self, and others). Reflecting on how to take responsibility for your most visceral emotions can actually be a great tool for intentionally accelerating your own growth.
+- As one of my mentors said, “It’s not the experience that is important, but what you make of that experience that matters.”
+    - Tags: [[favorite]] 
+- If you review the challenges you have faced in your past, you will probably see that the ones you confronted were resolved in less time than those you avoided or put off. Persevering by leaning into challenges (rather than avoiding them) is necessary for Vertical development to occur.
+    - Tags: [[favorite]] 
+- When we talk to these teenagers and young adults—or better yet, when we simply watch their responses to posts—we realize they don’t merely have Twitter posts, they are their Twitter posts. Their whole identity is defined by the responses they receive.
+- The less-tangible lens through which we understand ourselves, others, and the world is best understood as a system of principles and values. This Level 5 perspective includes openness, honesty, courage, justice, selflessness, productivity, service, respect for the inherent value of others, authenticity, and vulnerability.
+- As Karl noted, we first develop an Inside-Out perspective in the areas where we have the most experience or spend most of our time because that’s where we have the greatest probability of encountering challenges that will contradict our current lens. Challenging circumstances are the catalysts that provide the potential for growth to the next level.
+- The worst thing to do is to take too big a step that would result in realizing the big, bad version of your worry, fear, or resistance. Rather, small steps need to shed a clarifying light on the anxiety that holds you in place and increase your chances to grow your level and your leadership.
+- Rather, they make sure everyone is heard and that the team walks out of the meeting not necessarily in total agreement, yet committed to the decision.
+- Oddly enough, one of the biggest impediments to moving to Level 5 is success.
+- At Level 2 where we are comfortable with a me-first way of understanding the world, the developmental disruption comes when we see that attending to only our own agenda actually limits our success.
+- But ignoring or suppressing your complaints will not lead to growth.
+- This dynamic helps explain why multigenerational family wealth often results in noticeable developmental immaturity in the third generation.
+- • Leaning into family challenges? (How, exactly?)
+- Leaders at all levels can have strong values, but Level 4 leaders have integrated them into their identity, demeanor, and communication.
+- The vast majority of people who make it to Level 4 arrest their development there. Research suggests that up to eighty-five-percent of the population stops growing at Level 4 or below.
+- By repeatedly asking yourself “why?” you are trying to elevate your initial response to one with more impact on others, or to a purpose bigger than yourself. This elevation will be more Level 5 in nature, farther up the Vertical trajectory, thereby pulling you to a higher level of Vertical development.
+- Similarly, managers whose development arrests at Level 3 can be completely defined by their roles.
+- • Investing yourself in others? (If so, who comes to mind?)
+- Level 2 adults who lead teams are anything but cute. A middle school leadership style in a forty-year-old body creates organizational havoc and distress among those who report directly to a Level 2 leader. To them, you’re a competitor—a potential threat to their promotion, their success, their bonus.
+- So what I have tried to do is to create an atmosphere in which nobody’s afraid to challenge us about our decisions and what we’ve done, because that feedback is critical not just for us, but for them and the whole organization.”
+- (By self-authored, I mean that you take ownership and responsibility for the kind of person you want to become, even as you realize you will still need others to help you realize that aspiration.)
+- Eventually the simple, rules-oriented, reward-and-consequence motivated way of seeing things will be challenged by experience. Level 2 teens will be challenged when they realize that getting their way is actually not the real win—the bigger win is when they suspend their own agenda to coordinate it with others. They begin to empathize and see the world through the eyes of others.
+- These Step 5, smaller-me values should be in tension with your Step 2, bigger-me values—and that’s the whole point. It is identifying the contradiction between the two that enables you to identify your gateway for Vertical growth.
+- At Level 3 we also tend to confuse our identity with our roles.
+- The ongoing debate about whether leaders are born or made misses the point: if you don’t stretch your leadership muscles, your influence atrophies and your effectiveness wanes.
+- If the action you proposed in Step 3 raised a sense of worry, fear, or resistance, you’re on the right track.
+- The most pragmatic way to engage in this pursuit is through a reciprocal relationship with someone of a different race or culture.
+- What do these self-protective behaviors tell you that you might also value?
+    - Note: This is like the Immunity Map from Immunity to Change
+- Sometimes this explosive progress is due to a pent-up demand for growth. For many people, merely understanding the Map and the importance of leaning into (rather than avoiding) challenges unleashes growth that has been corralled for years.
+- However, these days more people are probably stalled due to the ease of life rather than difficulty, so today’s leaders may tend to relate more to Odysseus than Moses when it comes to trying to motivate people to keep growing.
+- A Level 2 perspective would insist that one group win and one group lose. A Level 3 perspective would require that we all just get along. A Level 4 perspective would focus on managing our differences effectively. But from the unique perspective of Level 5, differences are appreciated and leveraged toward the achievement of our common interests.
+- It is changing, and therefore our understanding must also change to stay relevant in the current environment. Relevance is what Level 5 leaders develop: they stay grounded in the things that don’t change—the values that underpin the generational differences—but remain open to new ways of realizing those values.
+- Experts in leadership effectiveness have evaluated various leader level responses to a series of leadership situations.34 They found Level 5 responses more effective than any of the lower level responses in dealing with leadership issues like complexity, conflict, motivation, change, and developing others, to name a few. At Level 5, there is an others-focused, big-picture, greater-good orientation to the responses.
+- (Presuming everyone else is where we are developmentally is a common trait across all levels before a person reaches
+  Level 5.)
+- Images and perspectives from cultures completely foreign to ours are available to anyone with a TV or an Internet connection. One result for many of us is that what we hold to be true is challenged constantly. Some respond to this challenge by surrounding themselves with like-minded people and perspectives. But a better option is to pursue real growth by beginning to self-author our own perspectives in a way that incorporates some of the different perspectives.
+- You will have a legacy whether you are intentional or not, but it’s much better to have a say in it! Those who give forethought to their legacies tend to author decidedly Level 5 goals. Finishing well is an important consideration to those who are determined to keep growing to Level 5.
+- For the sake of simplicity, I will refer to them simply as Level 1, Level 2, etc. We move from one level to the next as we learn to see the world around us from a more advanced perspective.
+- Regardless of one’s level, it facilitates growth to ask, “What is the most generous, most helpful, or most service-minded thing I can do?”
+- From that place they are able to make a truly authentic and unique contribution to the people around them. Becoming Level 5 means learning things you didn’t even know you didn’t know about yourself.
+- It will aid in your continued growth, but it is no longer merely a measure of how you’re doing as it was at Level 3. No longer will the feedback from others define you, rather it refines you. At Level 4 you have a confidence that comes from knowing who you are, and then you can seize feedback as a challenge to your understanding that will provide fuel for continued growth.
+- The move to Level 4 is about owning one’s own values, standards, and objectives—transitioning from an Outside-In to an Inside-Out perspective.
+- You may not stop growing, but more people than not eventually do. The way to avoid arresting your development is through intentionality and perseverance.
+- One of the fundamental paradoxes of Level 5 is being a person of conviction while also being a person of curiosity.
+    - Tags: [[curious]] 
+- When our behaviors and values are consistent with Level 5 behaviors and values, then eventual growth to Level 5 will only require changing the lens through which we see the world, ourselves, and others, not the values and behaviors as well. When Level 4 leaders self-author an understanding that is not as open or service-minded, the transition to Level 5 is more difficult, because in addition to the difficult work of changing their lens, they have to create a new set of behaviors and priorities as well.
+- In fact, when you are able to reconcile the tension or contradiction between Steps 2 and 5, you will probably have outgrown the complaint.
+- The challenge of coaching Level 3 leaders is their inability to take responsibility for their own mistakes, a factor that greatly undermines their ability to grow.
+- A Level 5 lens enables us to organize all the information we have gained through our previous lenses. This new organizing filter will view the world, others, and self through a universal, higher-order set of values or principles, including honesty, integrity, being open to and valuing others, and courage.
+- When trying to help Level 2 adults grow in the workplace, we need to be more concrete than we may believe is necessary—ambiguity only confuses them.
+- Did I miss something?” At Level 3, my well-being and understanding of myself are defined by someone else because I’m fully outside-sourced.
+- Becoming a Level 5 leader doesn’t require sacrificing your life, but it requires sacrificing your current lens. You have to see challenges as opportunities for growth—for yourself and for those you lead.
+- In terms of Vertical development, these characters simply traded one set of outside influences for another, rather than responding to an opportunity to grow. Sadly, in such real-life scenarios it is often the second or even third wife who reaps the benefit of the positive development that could (and should) have taken place when the crisis first arose.
+- If you reflect from Level 5, become intentional in the development of others, and seek integration of your ideas with others, then you are likely leading with greater maturity and effectiveness.
+- In fact, research on Vertical development and leader effectiveness shows it is not until we are more Level 4 than we are Level 3 that we are seen as being effective in our leadership roles, formal or informal.
+- • Leaning into faith challenges? (Where will you start?)
+- To understand his Level 3-ness, it’s not as essential to know what Joe knows or does as it is to comprehend how he knows it. In his reliance on outside sources to make sense of his situations, and to know what to do, it was easy to see how novel circumstances cause confusion or uncertainty.
+- Step 4: Name Your WFRs (Worry, Fear, or Resistance)
+- A growth response assumes more personal responsibility by determining what we stand for, understanding others’ positions in a way that they feel heard, without feeling the need to agree and taking ownership of a new understanding of oneself and the other in the midst of the differences that led to the conflict.
+- We notice only the things that are reflected back to us. Often others’ perceptions—whether positive or negative—become a self-fulfilling prophecy.
+- In the same way, but perhaps not to the same extent, many parents are like those who shielded Agassi: they try to protect their children from the consequences of their choices. They prevent them from experiencing the challenges and contradictions that force them to grow.
+- It is rare to find someone who understands the Vertical development Map who doesn’t desire to someday become Level 5. When we meet a real Level 5 leader, most of us instinctively crave the wisdom, effectiveness, broader perspective, peace, humility, happiness, and satisfaction that indicate the individual has reached his or her Promised Land.
+- The Level 4 leader, on the other hand, takes responsibility for the relationship and finds a way to make it more productive. Challenges, even in broken relationships, force us to reevaluate and grow, so the areas where we are most significantly challenged (for many of us, our careers) are where we grow first into Level 4.
+    - Tags: [[favorite]] 
+- One of the difficult things about critiquing people whose development is arrested at Level 3 is they maintain a congenial connection to others and their circumstances, which is often quite likable and endearing.
+- In fact, a good rule of thumb is that if you aren’t a little embarrassed, ashamed, or creeped-out by what you write, you need to look at yourself a bit closer and be more honest.
+- Level 2 employees can make great strides in Lateral growth, which is often noticed and rewarded by supervisors for a while. Level 2 leaders often have high intelligence or great expertise, but eventually it becomes evident that such positive attributes are no substitute for Vertical development.
+- This means that the rules, order, and self-interest of Level 2, the outside influences of Level 3, and the effectiveness of our self-authored Level 4 paradigm are all understood through the Level 5 lens of justice, mercy, goodwill, honesty, courage, and valuing others. Level 5 understanding, even as it comes from within, will be directed outward for the benefit of others.
+    - Tags: [[favorite]] 
+- This additive nature of the Vertical journey explains why our understanding becomes more comprehensive and accurate as we continue to grow, as well as why Level 5 leaders exhibit such great wisdom.
+- Our aim with this book is to help you anticipate and prepare for the detours and obstacles along the way and to help you travel farther and faster. Ultimately, satisfaction comes not from reaching the destination, but by continuing to grow—just ask those who feel they’ve “arrived” if they still feel that way a year later.
+    - Tags: [[coaching]] 
+- Feeling another person’s joy and sorrow (empathy) is a good starting point, but that’s also where insecure people stop.
+- The second type of developmental relationship is the challenge relationship where you submit yourself to the accountability and feedback of people who don’t have a stake in your goals or strategies (other than wanting what is best for you).
+- He’s not alone. In every Level 5 interview I have conducted, conflict is viewed as a value more than a problem that needs to be managed.
+    - Tags: [[favorite]] 
+- We have all met people in both categories because the world has no shortage of individuals who stop growing after achieving success with an effective, self-authored, Level 4 understanding.
+- Just because our views are being shaped by outside sources at Level 3 doesn’t necessarily keep us from being confident about a particular position on an issue. The blind spot, however, is that we will confuse knowing a position with owning that position.
+- Lateral development can be thought of as what we know. Vertical development is not what we know, but how we know what we know.
+- Therefore, after you get your first answer, ask yourself why that matters to you. When you get that answer, ask yourself why again. Keep asking until you want to say, “I don’t know why—that’s just who I am!” Your thought process should go something like this:
+- But one thing he still needs to learn is that other people do not necessarily perceive the world the same way he does.
+- In fact, no single factor better predicts your effectiveness than where you are on your Vertical journey.
+- He wrote, “The best test, and difficult to administer, is this: Do those served grow as persons? Do they, while being served, become healthier, wiser, freer, more autonomous, and more likely themselves to become servants?”
+- We can lead effectively from either side of that line for a while, but rigidity will ultimately lead to irrelevance as the world continues to change.
+- But any discord or threat to the expected balances of power is perceived as a loss, and a Level 2’s extraordinary efforts not to lose can include verbal or even physical abuse.
+- Why would you change when things are great? Vertical development usually occurs in the wake of challenging experiences.
+- The point of an exercise like this is not determining whose assumptions are more correct, but rather allowing the potential of a new understanding of our own biases to emerge. By openly and intentionally considering perspectives different from our own, we have the opportunity to see our perspectives in new ways that highlight previously hidden vulnerability.
+- When the self-authored paradigms we held at Level 4 no longer define our understanding, we can take an increasingly objective view of ourselves and compare our paradigms to those of others.
+- We all tend to look at what’s in our hands to solve problems. Unless we’re forced to try something new, we don’t even think about other options.
+- At Level 2 we begin to realize that there is reality independent of our perceptions.
+- In taking this increasingly objective view of ourselves (which only happens at Level 5), we become more insightful into our strengths and weaknesses. Because we are others-oriented and open to contrasting views, we will naturally continue to reevaluate and refine our understanding of ourselves—this refinement is the process of becoming increasingly Level 5.
+- A third challenge (closely related to the previous one) we can intentionally submit to is attempting to understand cultural differences in a way that pushes up against our deepest biases—personal tendencies toward one thing over another.
+- Intentionally embracing contradictions in life becomes more natural with practice.
+- Self-interest is the lens through which Level 2 individuals view themselves.
+- We justify such falsehoods by telling ourselves that if we spoke the truth the other person would fall apart, when in fact the lie is told to protect ourselves. Level 3 people believe they are saying the right thing by lying, but usually they are just protecting the relationship by not dealing with their own uncomfortable feelings.
+- 2. On a scale of 1 (least) to 10 (most), how would you rate your level of perseverance? Give some examples. How might you increase your number?
+- At Level 5 we are able to take an objective view of even ourselves.
+- A good example is the challenge of financial difficulty. When money gets tight, the contradictions provided by the challenge (evaluating and prioritizing spending, aligning expenditures with values, resolving the tension between earning money and spending time with the family, etc.) prompt a reevaluation of who we want to be and the story we want to tell.
+- Those at a higher level of Vertical development must take responsibility for seeing the perspectives of those at lower levels. This is especially true at Level 4 after we make the major shift from an Outside-In to an Inside-Out perspective.
+- Executives who are satisfied with Level 4 run the risk of becoming “fossils” or “relics” in their organizations. When they stop listening to others and stop learning, they stop growing as leaders.
+- When hardships arise—especially for people who have learned to self-author a way that has led to great success—it’s not difficult to insulate oneself from those unpleasant circumstances. Vacations, afternoons at the club, golf, or a bottle of good wine can take our minds off of late-in-life challenges that could help us continue to grow. Other distractions are available for those who aren’t as wealthy: television, beer, or simply hanging around with like-minded friends can serve the same purpose.
+  Without continued challenge and contradiction, which are essential to growth, a Level 4 lens will become increasingly fixed, especially if great success allows new challenges to be easily avoided or purchased away. Why should I change my way of doing things if it’s working?
+- This research supports the anecdotal evidence that many researchers over the past decades have purported to be true: first, the higher your level, the more effective you are as a leader; and second, you don’t truly become an effective leader until you reach a place of self-authorship at Level 4.
+- In other words, how we see ourselves and others determines our effectiveness as leaders.
+- Level 5 understanding, even as it comes from within, will be directed outward for the benefit of others. One hundred percent of the Level 5 leaders we have interviewed confirm with their behaviors that this serving-the-growth-of-others orientation may be the best way to move from Level 4 to Level 5.
+- We create for ourselves the standards we want to live up to, so we don’t need someone else to tell us that we’ve done a good or a bad job. The mirror you use at Level 4 is the one in which you see your own reflection as both chief critic and chief supporter.
+- When the higher-order ethic of Level 5 becomes our lens, it also becomes the organizing principle by which we view all of our previous lenses.
+- Even though taking the time for reflection in our 24/7 lives may seem like a luxury, the most powerful source of renewable energy for a leader is deep personal reflection—and in today’s business environment it is in short supply.
+- “During the next year I want to become better at [insert your bigger-me values] and not be held in place by [insert your smaller-me values].”
+- Since you don’t expect others to be responsible for your self-esteem at Level 4, the idea that you might be responsible for someone else’s self-esteem seldom crosses your mind.
+- Level 3 followers develop the philosophy of, “Don’t rock the boat.”
+- When Level 4 leaders self-author an understanding that is not as open or service-minded, the transition to Level 5 is more difficult, because in addition to the difficult work of changing their lens, they have to create a new set of behaviors and priorities as well. We all have known Level 4 leaders whose values are characterized more by achievement of objectives than by selflessness, by self-protection more than vulnerability, by promoting their own way more than serving others, and by maintaining their system more than being authentic.
+- Therefore, opening ourselves to a more objective view of our faith will deepen that faith even as it deepens our understanding of everything else from a Level 5 perspective.
+- The worry, fear, or resistance holding you back from doing what you know you could be doing is not hard to identify—hard to admit to, for sure, but not hard to identify.
+- The challenge of coaching Level 3 leaders is their inability to take responsibility for their own mistakes, a factor that greatly undermines their ability to grow. Managers at Level 3 go to great lengths to blame others for their errors in judgment or their poor decisions.
+- At Level 4 you don’t want someone else to lay out every step that needs to be taken, and you don’t look to outside sources to figure out what to believe and how to respond to any given situation. What you desire is a self-defined goal because you know what to do and what success means.
+- When defined by their roles, Level 3 leaders’ identities are largely shaped by their position and formal power in the organization.
+- Be intentional in developing others by explaining what you’re doing and why. If your leadership style revolves around a strong value you have, name it, and explain why you’re using it.
+    - Tags: [[favorite]] 
+- You get the idea. The goal in all these cases is to begin to not only see a larger whole and find points of commonality, but even more to begin to take an objective view of the weakness and vulnerability of your own understanding.
+- You create your own path by being genuine, being yourself, and exercising your personal freedom. For the first time, a Level 4 leader can make personal value decisions that are in the best interest of the institution—without arrogance or timidity.
+- The biggest key in moving from Level 4 to Level 5, especially in terms of intentional development, is the need to focus all of your efforts on creating a new kind of openness and vulnerability.
+- At Level 5 we become stronger in our convictions, primarily because we understand ourselves and we know we can’t effectively lead others without those convictions. Values and convictions drive effective behavior.
+- This awareness is another proof of Vertical growth. There’s a difference between saying “He made me angry,” and “I got angry when he did that.” When he makes you angry, you’re being “done to” from the outside in. But when you get angry that someone did something, you’re taking responsibility for the anger from the inside out.
+    - Tags: [[favorite]] 
+- Research shows that teachers who treat their students as if they are bright have students who perform better than those whose teachers treat them as if they are slow, regardless of the students’ innate capabilities. One way to understand the Level 3 lens is to see it in terms of this Pygmalion effect, where every outside influence helps shape our understanding of ourselves and our world.25
+- In the transition out of Level 4, you will increasingly incorporate higher-order values into who you are, and the emerging Level 5 lens will increasingly filter or make sense of everything around you—including your identity, goals, relationships, choices, and legacy—through these values.
+- Prior to Level 4, leadership ability is usually based on intelligence, expertise, communication skills, charisma, etc.—all of which are Lateral knowledge, skills, and abilities commonly found in bright college students who are usually Level 3 at best.
+- A wealth of psychological literature is available concerning Groupthink and the Abilene Paradox24 that helps explain the pressure to conform. The problem with leaders at lower levels is they are more susceptible to peer pressure than higher-level leaders.
+- Do you see the tough circumstances in your life as a classroom or a prison?
+    - Tags: [[favorite]] 
+- That said, even from Level 3, it is to our benefit to engage in the behaviors and adopt the values of Level 5 leaders through our Level 3, Outside-In lens. Doing so will propel development as we continue to take advantage of the challenges that can accelerate growth toward a Level 5 destination.
+- He said, “Never is your vision exactly the same year after year. You clarify it by the events that happen around you.
+- What I could do that I haven’t done to more fully realize this
+  bigger-me value is _____________.
+- At the end of each step (preferably in a developmental relationship) you could ask yourself, What did I learn new about myself in relationship to my GO Statement?
+- Effective leaders see a lot of gray in life, but they help others define expectations and “the right thing” to do. What makes Level 5 leaders unique is having strong standards for their conduct and for others while simultaneously being open to having those values questioned.
+- Wooden, like so many Inside-Out leaders, knew that growing responsibility in others is the key to building successful teams and organizations. Teams win when teammates know and accept their responsibilities, and teams lose when they point the finger and blame each other.
+- Then, threats become opportunities.
+- This step is your opportunity to identify not the solution to your complaint, but rather to highlight the anxiety that may be keeping you stuck. If you solve the complaint, you steal your opportunity to use it for growth.
+- We often have no other option than to persevere when a challenge is unavoidable (getting fired, battling illness, losing a loved one, etc.), but we can also persevere intentionally when a challenge is avoidable. When we do, we accelerate Vertical growth with intention.
+- It’s just that by that point you stop using so much effort to address your own limitations, and you spend that energy instead for the benefit of others. Rather than wearing you down, as service tends to do whenever it is forced, your investment in others is what energizes you.
+- Who doesn’t care about their position in the organization, paying their mortgage, or getting along with others? The point of this step is to accept the fact that you are this smaller value too—but not to let it define you.
+- These values are still self-authored (Inside-Out) because we deal internally with the challenges that contradict our Level 4 understanding. At Level 5 we understand that something bigger than just our paradigm needs to hold all of the different possible paradigms together.
+- In time you even begin to identify and make the most of small challenges that would be otherwise easy to ignore, such as conflict with a colleague or disappointment with corporate strategy or direction. Embracing challenges big and small increases the numerator in the equation and accelerates growth.
+- But beware: Level 4 security and confidence can be mistaken for cockiness by those who haven’t yet experienced the strength of this Inside-Out level of development.
+- If we take the perspective that most people are not crazy, are well intended, and have come to understand their own faith as the most reasonable answer to what they should base their lives on, then we can say to ourselves, What they are saying makes sense to them. I just don’t understand it yet.
+- Just as it was with beliefs and family, exploring the perspectives of those who have had a different cultural experience gets us to an “unknown place” in our own Level 4 understanding. If we think we don’t have biases, that presumption is a pretty good indication of our Level 4 limitations, which provides a rich area for intentional accelerated growth.
+    - Tags: [[favorite]] 
+- They need not throw away the shovel, because it has worked very well for many years on many different problems. The challenge is to be open to new ways of doing things, new tools, new processes, and new people.
+- Leaning into a challenge means that we ask ourselves some version of the question: “What can I learn new about me in these circumstances?”
+- Experts in leadership effectiveness have evaluated various leader level responses to a series of leadership situations.34 They found Level 5 responses more effective than any of the lower level responses in dealing with leadership issues like complexity, conflict, motivation, change, and developing others, to name a few.
+- Unlike all previous levels, the motivation to grow at Level 4 has to be self-imposed unless an unavoidable (and usually traumatic) challenge contradicts our Level 4 lens. This is why most people stop growing at Level 4.
+- Quite often, Level 3 managers avoid making decisions at all costs. Their default decision-making preference is to take a vote—not because they live in a democracy (a convenient excuse), but rather so they won’t be responsible for the outcome.
+- What’s important to see in Kate is how she is being for people in her organization and not just being beside them or even being with her subordinates and peers. Being for them means she is invested in others’ development and growth.
+- How do Level 2 leaders rise to positions of authority? Some are the founding entrepreneurs of an organization that has been successful.
+- The more Level 3 dominant we are, the more we will feel outstripped by the demands of situations that cannot be resolved using previously learned solutions.
+- The transition from Level 3 to 4 focuses on taking responsibility in every part of your life.
+- It is very difficult to voluntarily submit to the challenge of other perspectives in the areas of beliefs, family, and biases.
+- Similarly, at Level 3 there is an innate belief that because I need to hold others up as a mirror to understand myself, so does everyone else. Therefore, at Level 3 it is normal, even if unnecessary, for us to want to take responsibility for the way others see themselves.
+- Assessment relationships are those with people who observe your attempts to challenge yourself in new ways toward your goals.
+- But what is demanded to grow from Level 4 to Level 5 is letting go of a hard-earned, self-authored understanding of self and world in order to gain the openness that leads to greater wisdom. Giving up the Level 4 self feels like a death of the things that we are most protective of, and it feels like we are exposing ourselves to a potentially unsafe vulnerability.
+- Learning from wise people can help us make choices that lead to greater satisfaction, abundance, purpose, and productivity … to a destination with fewer regrets … in short, our Promised Land. The more specific you are about your destination, the greater the likelihood you will make decisions along the way that will take you where you really want to be.
+- Your life can be filled with opportunities for growth through challenge and contradiction, but if you don’t persevere at all, you zero out the growth equation. Masking challenges with drugs, alcohol, or some other form of avoidance also suppresses perseverance.
+    - Tags: [[favorite]] 
+- For instance, Level 3 leaders can work hard to identify and commit to values they don’t want to compromise, and they can intentionally evaluate their actions against those values even in the face of outside sources pushing in a different direction.
+- You will address your worries at the next step, so here you need to resist any temptation to jump to the most convenient answer that seems to resolve your complaint. This step is your opportunity to identify not the solution to your complaint, but rather to highlight the anxiety that may be keeping you stuck.
+- Since you don’t expect others to be responsible for your self-esteem at Level 4, the idea that you might be responsible for someone else’s self-esteem seldom crosses your mind. People who report to Level 4 leaders frequently complain that they don’t receive positive feedback, only criticism. Level 4 leaders need to recognize that those who look to them for leadership may be so tied to (and defined by) the goal or initiative that they might take any sort of criticism (even about the goal or initiative) personally.
+    - Tags: [[favorite]] 
+- Vertical growth is never easy or immediate, but perseverance is the real ticket to growth.
+- Level 4 leaders are so often successful at leading others because they are secure enough to listen and confident enough to make hard decisions, which, in turn, engenders confidence in their leadership.
+- However, what Level 4 leaders may lack in charisma, communication skills, intelligence, or expertise, they make up for in maturity and self-awareness, which makes them more effective leaders.
+- At Level 4 you don’t want someone else to lay out every step that needs to be taken, and you don’t look to outside sources to figure out what to believe and how to respond to any given situation.
+- The third type of relationship is the support relationship.
+- I’m not saying that you should shy away from success, but I am suggesting that during times of abundance we need to be more intentional about submitting to and seizing the more subtle opportunities for growth.
+- Challenging life experiences either accelerate or arrest Vertical growth. The more challenging the experience, the greater its potential to bring about Vertical development.
+- The child’s success or failure actually defines the parent’s identity and reputation. At higher levels of development, parents’ love is about creating challenging opportunities for their children, while also ensuring support for them should they fail.
+- It seems incomprehensible to people at Levels 2 or 3, but Level 5 leaders are effective precisely because they live in the tension of the contradiction of their opposing values.
+- However, if you have middle-aged friends or family members who still get their identity from their profiles, their status, or their “walls,” it seems a little weird and kind of sad.
+- This is a topic for another entire book, but I believe that when we look at the life of Jesus through this Level 5 prism, the apparent paradoxes in some of his behaviors are resolved. Some people are bothered by differences (i.e., the paradoxical values of justice vs. mercy, or truth vs. love) that, seen through earlier lenses, often seem like contradictions. But using a Level 5 lens, those teachings become remarkably consistent and easily reconciled in light of a higher-order perspective.
+- Similarly, if you are an active part of your faith community or a political organization, you will certainly encounter contradictions to your beliefs, and those contradictions will leave you two options: keep letting other outside sources determine what you believe, or do the difficult work of reconciling the contradictions from the inside out. The former can arrest your development; the latter will lead to growth.
+- How many leaders delegate just to offload work they don’t want to do, concerned more about what they need than what the organization needs? But a Level 4 leader delegates to enable team members to develop skills, gain experience, and perform more effectively—not just in their current position, but also in preparation for their next one.

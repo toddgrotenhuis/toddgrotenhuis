@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "highlights/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "highlights/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,14 @@
   },
   "active": "306c08f352ec6944",
   "lastOpenFiles": [
+    "highlights/index.md",
     "index.md",
+    "highlights/Books/Reaper Man.md",
+    "Terry Pratchett.md",
+    "rec.md",
+    "TIL.md",
     "health.md",
     "book.md",
-    "game.md",
-    "rec.md"
+    "game.md"
   ]
 }
